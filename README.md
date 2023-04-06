@@ -15,3 +15,5 @@ To build the site. To serve the site locally run:
 `jekyll serve --watch`
 
 This will build the site, start the local webserver and watch the directory to automatically rebuild on any changes. Just point a browser at [Localhost:4000](http://localhost:4000) to see your site.
+
+Finally when you are happy with your changes, push them back to this repo. The Cloudflare pages worker will spot the changes and in a couple of minutes the site will be rebuilt anew and you can see you changes in the wild [here](https://thebes.xyleth.co.uk)
