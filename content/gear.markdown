@@ -11,16 +11,16 @@ nav_order: 6
 *   **_[Basic Weapons](#basic-weapons)_**
 *   **_[Heavy Weapons](#heavy-weapons)_**
 *   **_[Armor](#armor)_**
-*   **_[Implants and Upgrades](#Implants)_**
-*   **_[Medical Supplies](#Medical)_**
-*   **_[Drugs](#Drugs)_**
-    *   **_[Cognitive Drugs](#Cognitive)_**
-    *   **_[Combat Drugs](#Combat)_**
-    *   **_[Health Drugs](#Health)_**
-    *   **_[Recreational Drugs](#Recreational)_**
-    *   **_[Social Drugs](#Social)_**
-    *   **_[Nanodrugs](h#Nano)_**
-    *   **_[Narcoalgorithms](#Narco)_**
+*   **_[Implants and Upgrades](#implants)_**
+*   **_[Medical Supplies](#medical)_**
+*   **_[Drugs](#drugs)_**
+    *   **_[Cognitive Drugs](#ognitive)_**
+    *   **_[Combat Drugs](#ombat)_**
+    *   **_[Health Drugs](#health)_**
+    *   **_[Recreational Drugs](#recreational)_**
+    *   **_[Social Drugs](#social)_**
+    *   **_[Nanodrugs](#nano)_**
+    *   **_[Narcoalgorithms](#narco)_**
 
 ### Starting Gear
 
@@ -147,11 +147,11 @@ Armor comes in three categories:
 *   Combat armor (2-armor) tends to be bulky and obvious, taking forms like thick crab-like carapace, sealed suits of armor, or thick armor plating bolted to your chassis.
 *   Heavy armor (3-armor) is rare, found usually on dedicated combat synthmorphs and machines of war.
 
-### **Implants and Upgrades**
+### Implants and Upgrades
 
 The galaxy is full of hi-tech nanoware implants for biomorphs or software or hardware upgrades for synthmorphs. Rather than create an exhaustive list, simply check the list of **_[morph tags](https://htmltomd.com/wikis/tags)_**. Each of them represents some form of upgrade that you can purchase or procure. Some tags are only applicable to biomorphs, others are only applicable to synthmorphs, and yet others have different tech that applies the same benefit to both types.
 
-### **Medical Supplies**
+### Medical Supplies
 
 Trained medical professionals, such as those with the **_[Battlefield Medic](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Medic)_** move, may use a medical kit in the following fashion:
 
@@ -179,7 +179,7 @@ To use it to revive someone who’s on death’s door (`Dead`, but not beyond, a
 
 **_Nanobandages:_** These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, heal two checks off the **_damage track_**. On a 7-9, heal one check. On a failure, the bandage is wasted and you may have made things worse.
 
-### **Drugs**
+### Drugs
 
 Drugs are usually of benefit (or detriment) only to biomorphs, but most can be replicated as narcoalgorithms (see below). When using a drug (or having one inflicted upon you), use the following move:
 
@@ -195,7 +195,7 @@ On a 6-, you become addicted to the drug. You must indulge at least once a sessi
 **Drug List:**
 
   
-**_Cognitive Drugs:_**  
+#### Cognitive Drugs  
 **_Drive:_** This nootropic speeds up left-right brain hemisphere communication, stimulates idea production, and improves concentration, with no usual side effects.  
 **_Effects:_** `+boosted` to **_take a chance_** rolls using Cognition  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -209,7 +209,7 @@ On a 6-, you become addicted to the drug. You must indulge at least once a sessi
 **_Addiction:_** As **_drug use_**.
 
   
-**_Combat Drugs:_**  
+#### Combat Drugs
 **_Bringit:_** In some respects more a social than a combat drug, BringIt stimulates massive bursts of aggression pheromones designed to make the user the center of attention in a fight.  
 **_Effects:_** Enemies will tend to prioritize the drug user over other targets  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -232,7 +232,7 @@ strength. MRDR users are easily identifiable by the broken blood vessels in thei
 **_Addiction:_** As **_drug use_**.
 
   
-**_Health Drugs:_**  
+#### Health Drugs
 **_Bananas Furiosas:_** This drug reverses some of the effects of de-ionizing radiation on the cells of the body. Although a pill form is available, it most commonly comes in large bunches of bright orange-red bananas.  
 **_Effect:_** Bananas reduce the severity of a radiation dosage (gamemaster determines effect).  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -243,7 +243,7 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
 
   
-**_Recreational Drugs:_**  
+#### Recreational Drugs
 **_Buzz:_** This gene-modified variant of BZ is an odorless, invisible, extremely powerful hallucinogen. Users or affected characters will undergo extremely realistic hallucinations for the duration, and may even “share” hallucinations with other affected characters.  
 **_Effect:_** `+degraded` to any tests to remember what occurred while under the influence.  
 **_Addiction:_** As **_drug use_**.
@@ -257,7 +257,7 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
 
   
-**_Social Drugs:_**  
+#### Social Drugs
 **_Alpha:_** Alpha is a more subtle version of BringIt, popular with hypercorp execs, street thugs, and anyone else who wants to come across as a domineering asshole. The pharm designer who invented it had a retro sensibility (and maybe a sick sense of humor); Alpha is typically synthesized as a sparkling white powder designed to be snorted. Alpha stimulates production of threat pheromones, but less bluntly than BringIt. Alpha imparts confidence, a feeling of power, and alertness.  
 **_Effects:_** Users can function without sleep for 4 days, after which point they need to catch up with at least 4 hours of sleep. `+boosted` on all rolls to intimidate, persuade, or network with others within 2 meters. On the downside, alpha users are impatient, unfocused assholes. At the gamemaster’s discretion, the character is instead `+glitched` with certain types of people.  
 **_Addiction:_** `+glitched` on **_drug use_** rolls.
@@ -271,7 +271,7 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Addiction:_** As per **_drug use_**.
 
   
-**_Nanodrugs:_**  
+#### Nanodrugs
 **_Frequency:_** Frequency (or Freeq) is a nanodrug designed as a tool for scientific visualization. It releases a small swarm of nanobots into the character’s bloodstream that settle in the epidermis, where they act as sensors of electromagnetic radiation. This sensory input is then injected into the character’s visual and tactile sensoria, hitting the user with a sequence of novel stimuli, typically a light show or weird tactile sensations. Aside from its recreational uses, Frequency is good at picking up on localized field radiation  
 **_Effects:_** `+electrical sense`, `+radiation sense`. Similar to now-obsolete 20th-century hallucinogens like LSD and psilocybin, however, a Frequency trip can be disorienting and upsetting. Roll the **_trauma move_**. Characters typically experience a period about 1/3 of the way through their trip in which sensory input is extremely intense; during this period, which usually lasts about 2 hours, they are unable to read.  
 **_Addiction:_** As per **_drug use_**.
@@ -288,7 +288,7 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Effects:_** Petals have widely varying “trips” from the pleasant to the terrifying. Because Petals combine custom nanobots with tailored chemical payloads and sometimes connections to mesh servers, duplicating them using fabricators is impossible, leading to an active market of crafters, dealers, and traders. Petals sometimes contain easter eggs and rewards, called “sweets” by petal users. Getting the sweets usually requires fulfilling certain conditions within the trip, such as correctly answering questions or fulfilling goals. Typical sweets include skillsofts, new clothing or product designs, and custom infomorph sleeves. On the negative side, some Petal trips go bad, inflicting **_trauma_** on the user. Perhaps worse, some Petals are loaded with malware that takes over the user’s mesh inserts and worse—some even whisper of Petals carrying strains of the exsurgent virus.  
 **_Addiction:_** Varies
 
-  
+#### Narcoalgorithms
 **_Narcoalgorithms:_** Narcoalgorithms are software programs that simulate the effects of drugs on biological bodies. Almost all bio, chemical, and nano drugs can be replicated as narcoalgorithms, with corresponding effect (gamemaster discretion). Standard duration is 3 hours. Addiction to narcoalgorithms is considered mental. Narcoalgorithms may be run by infomorphs, egos encased in cyberbrains (pods and synthmorphs), simulmorphs, and even AIs.
 
 **_DDR:_** Originally crafted by prankster hackers and distributed as a virus, DDR (for “Dance Dance Robot”) triggers impulses in the target’s motor control circuits. Primary targeting robot AIs, the effect is that targets “dance” in jerky, automated movements. Pleasure receptors are also activated so that dancing—and movement of any kind—feels good. Different software variants invoke different motions and styles.  
