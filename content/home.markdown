@@ -7,7 +7,7 @@ redirect_from:
   - /home
 ---
 
-![Eclipse Phase Logo](../images/EclipsePhase_Logo_Black.jpeg)
+![Eclipse Phase Logo](../assets/images/EclipsePhase_Logo_Black.jpeg)
 
 # Welcome to the Eclipse Phase: Thebes site
 
