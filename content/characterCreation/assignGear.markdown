@@ -5,4 +5,6 @@ parent: Character Creation
 nav_order: 8
 ---
 
-Pick up the shiny
+# Assign Gear
+
+Pick up the shiny from [here](/content/gear) based on the following rules...... add rules....
