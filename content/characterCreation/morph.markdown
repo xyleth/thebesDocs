@@ -14,8 +14,8 @@ Some morphs are strong. Some are fast, some are smart. Some morphs are looked do
 
 Most morphs also have a number of [Tags](https://htmltomd.com/wikis/tags). These tags are generally narrative, but some have game-mechanical application. See the list of [Tags](https://htmltomd.com/wikis/tags) for more details.
 
-**[Biomorphs](/morphs/biomorphs)** – Biological bodies  
-**[Pods](https://htmltomd.com/wikis/pods)** – Mass-produced biological bodies with significant cybernetics  
-**[Synthetic Morphs](https://htmltomd.com/wikis/synthetic-morphs)** – Fully artificial machine bodies  
-**[Infomorphs and Eidolons](https://htmltomd.com/wikis/infomorphs-and-eidolons)** – Purely virtual, running in a software emulation environment  
-**[Exotic Morphs](https://htmltomd.com/wikis/exotic-morphs)** – Not available through [Background](https://htmltomd.com/wikis/background), see [Gear](https://htmltomd.com/wikis/gear)
+**[Biomorphs](/content/morphs/biomorphs)** – Biological bodies  
+**[Pods](/content/morphs/pods)** – Mass-produced biological bodies with significant cybernetics  
+**[Synthetic Morphs](/content/morphs/synthetics)** – Fully artificial machine bodies  
+**[Infomorphs and Eidolons](/content/morphs/infomorphs)** – Purely virtual, running in a software emulation environment  
+**[Exotic Morphs](/content/morphs/exotics)** – Not available through [Background](https://htmltomd.com/wikis/background), see [Gear](https://htmltomd.com/wikis/gear)
