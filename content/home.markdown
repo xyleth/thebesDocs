@@ -2,6 +2,9 @@
 layout: default
 title: Home
 nav_order: 1
+permalink: /
+redirect_from:
+  - /home
 ---
 
 ![Eclipse Phase Logo](../images/EclipsePhase_Logo_Black.jpeg)

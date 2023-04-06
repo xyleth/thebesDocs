@@ -22,7 +22,7 @@ title: "Eclipse Phase: Thebes"
 email: ben@xyleth.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A site for rules and game reports for our homebrew Eclipse Phase / PbTA Mashup.
-baseurl: "/content" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thebes.xyleth.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xyleth
 github_username: xleth
@@ -31,6 +31,7 @@ github_username: xleth
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
