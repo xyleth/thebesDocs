@@ -6,11 +6,11 @@ nav_order: 6
 
 # Gear
 
-*   **_[Starting Gear](#Starting)_**
-*   **_[Currency](#Currency)_**
-*   **_[Basic Weapons](#Basic)_**
-*   **_[Heavy Weapons](#Heavy)_**
-*   **_[Armor](#Armor)_**
+*   **_[Starting Gear](#starting-gear)_**
+*   **_[Currency](#currency)_**
+*   **_[Basic Weapons](#basic-weapons)_**
+*   **_[Heavy Weapons](#heavy-weapons)_**
+*   **_[Armor](#armor)_**
 *   **_[Implants and Upgrades](#Implants)_**
 *   **_[Medical Supplies](#Medical)_**
 *   **_[Drugs](#Drugs)_**
@@ -22,7 +22,7 @@ nav_order: 6
     *   **_[Nanodrugs](h#Nano)_**
     *   **_[Narcoalgorithms](#Narco)_**
 
-### **Starting Gear**
+### Starting Gear
 
 In a world with nanofabrication technology, most basic gear is cheap to the point of being free. The only restricted items tend to be dangerous or require exotic raw materials. As a result, characters can start with pretty much any personal effects they desire. In addition, each character may start with four items or services that might otherwise be expensive or difficult to obtain.
 
@@ -38,7 +38,7 @@ Some examples:
 *   Medical and field-triage equipment
 *   A favor or favors owed by a particular person or group
 
-### **Currency:**
+### Currency
 
 There are two main systems of currency in the universe of Eclipse Phase. The first, used mostly in the inner system and with the hypercorps, is money, credits, and other physical goods reflected in the **_Resources_** stat. The second, used mostly in the outer system and amidst more anarchist groups, reflects a post-scarcity economy where physical goods are plentiful and a person’s time and reputation is the only unit of value. This is reflected in the **_Rep_** stat.
 
@@ -48,7 +48,7 @@ You may find your **_Resources_** and **_Rep_** diminishing as you stretch them 
 
 Resources and Rep can go no higher than +3 and no lower than -2. If either stat reaches -2, you may no longer roll it until it increases to at least -1.
 
-### **Basic Weapons**
+### Basic Weapons
 
 Weaponry is immensely varied and exotic, with new templates being designed for nanofabrication all the time. Basic weapons are those that can be used by your average biomorph without the need for specialized implants or training. Rather than create an exhaustive weapon list, players and the GM are encouraged to develop their own weapons using the system below:
 
@@ -97,7 +97,7 @@ Light Machine Gun (2-damage `+close/far` `+autofire` `+loud` `+recoil`)
 Tranquilizer Rifle (2-damage `+far` `+bug` `+capsule` `+hi-tech` `+reload`)  
 Microwave Agonizer (3-damage `+close` `+shock` `+autofire` `+bio` `+hi-tech`)
 
-### **Heavy Weapons**
+### Heavy Weapons
 
 Heavy weapons require specialized training to use, and often a specialized [morph](https://htmltomd.com/wikis/morph) or a vehicle to mount them on. Anyone trying to use a heavy weapon without the **_[Heavy Weapon Training](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Heavy)_** move must first successfully **_take a chance_** rolling+Somatics.
 
@@ -137,7 +137,7 @@ Microwave Agonizer Cannon (4-damage `+close` `+shock` `+area` `+bio` `+hi-tech`)
 Plasma Cannon (4-damage `+close/far` `+burn` `+hi-tech` `+reload`)  
 EMP Cannon (4-damage `+close` `+shock` `+area` `+synth` `+hi-tech`)
 
-### **Armor**
+### Armor
 
 Armor can either be worn by your [morph](https://htmltomd.com/wikis/morph) or integrated. Most biomorphs don’t have built-in armor, whereas most synthmorphs, being made of metal and other durable substances, have an intrinsic armor value. In some circumstances, a morph with built-in armor may choose to wear additional armor. Only the higher armor value applies.
 
