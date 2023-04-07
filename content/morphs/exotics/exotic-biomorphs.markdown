@@ -2,6 +2,7 @@
 layout: default
 title: Exotic Biomorphs
 parent: Exotic Morphs
+grand_parent: Morphs
 nav_order: 1
 ---
 

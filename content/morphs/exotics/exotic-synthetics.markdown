@@ -2,6 +2,7 @@
 layout: default
 title: Exotic Synthetic Morphs
 parent: Exotic Morphs
+grand_parent: Morphs
 nav_order: 3
 ---
 
