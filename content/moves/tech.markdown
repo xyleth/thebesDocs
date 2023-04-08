@@ -30,7 +30,7 @@ When you hack a `+cyberbrain` or a `+virtual` person in a charged situation roll
 You cannot use this move if you have unspent hold from this move.
 
 **_Hacker_**  
-When you seek to subvert a non-informorph computer system or electronic security measures, roll+Intuition. On a 10+, choose 3. On a 7-9, choose 2. On a miss, choose 1 anyway.
+When you seek to subvert a non-informorph computer system or electronic security measures, roll+Intuition/Cognition. On a 10+, choose 3. On a 7-9, choose 2. On a miss, choose 1 anyway.
 
 - You get into the system or past the security
 - You don’t alert anyone to your intrusion

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basic Moves
-parent: Rules
+parent: Moves
 nav_order: 2
 ---
 
