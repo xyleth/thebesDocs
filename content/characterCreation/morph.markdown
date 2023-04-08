@@ -11,7 +11,7 @@ Your Morph is the body that your [Ego](https://htmltomd.com/wikis/ego) is inhabi
 
 Some morphs are strong. Some are fast, some are smart. Some morphs are looked down upon and grant the `+stigmatized` tag. Others are so unearthly in their beauty and perfection that you get bonuses to all social interaction. Your [Background](https://htmltomd.com/wikis/background) determines which morph you may start play with.
 
-When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made: on 10+ you get the Morph and common mods. On 7-9 you either get the Morph and common mods but lose one rep/resource point permanently or get just the Morph with its basic mods. On a miss you either get the Morph with basic mods and two negative tags (One MC choice, one player choice) or you get a common morph of your choice with basic mods.
+When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made: on 10+ you get the Morph with its included mods plus 4 additional mods. On 7-9 you either get the Morph and as before but lose one rep/resource point permanently or get just the Morph with its basic mods. On a miss you either get the Morph with basic mods and two negative tags (One MC choice, one player choice) or you get a common morph of your choice with basic mods.
 
 Most morphs also have a number of [Tags](https://htmltomd.com/wikis/tags). These tags are generally narrative, but some have game-mechanical application. See the list of [Tags](https://htmltomd.com/wikis/tags) for more details.
 
