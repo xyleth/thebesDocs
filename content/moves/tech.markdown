@@ -2,7 +2,6 @@
 layout: default
 title: Tech Moves
 parent: Moves
-grand_parent: Character Creation
 nav_order: 5
 ---
 

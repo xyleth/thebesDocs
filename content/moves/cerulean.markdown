@@ -2,7 +2,6 @@
 layout: default
 title: Cerulean Moves
 parent: Moves
-grand_parent: Character Creation
 nav_order: 7
 ---
 

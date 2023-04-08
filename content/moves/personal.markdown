@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Personal Moves
-parent: Choose Moves
-grand_parent: Character Creation
+parent: Moves
 nav_order: 3
 ---
 
