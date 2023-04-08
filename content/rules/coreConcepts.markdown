@@ -51,30 +51,20 @@ You have two condition tracks corresponding to the physical damage taken by your
 
 **_Damage Track_**
 
-**_Sanity Track_**
-
 \[\] `+scuffed`
-
-\[\] `+odd`
-
 \[\] `+scuffed`
-
-\[\] `+odd`
-
 \[\] `+scuffed`
-
-\[\] `+odd`
-
 \[\] `+stunned`
-
-\[\] `+eccentric`
-
 \[\] `+wounded`
-
-\[\] `+dissassociated`
-
 \[\] `Dead`
 
+**_Sanity Track_**
+
+\[\] `+odd`
+\[\] `+odd`
+\[\] `+odd`
+\[\] `+eccentric`
+\[\] `+dissassociated`
 \[\] `Insane`
 
 When you take physical damage, you will roll the **_damage move_**. When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the **_trauma move_**. Both of these moves are [Basic Moves](https://htmltomd.com/wikis/basic-moves).
