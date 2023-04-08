@@ -2,7 +2,7 @@
 layout: default
 title: Biomorphs
 parent: Morphs
-nav_order: 1
+nav_order: 2
 ---
 
 # Biomorphs

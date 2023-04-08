@@ -2,7 +2,7 @@
 layout: default
 title: Infomorphs and Eidolons
 parent: Morphs
-nav_order: 4
+nav_order: 5
 ---
 
 # Infomorphs and Eidolons

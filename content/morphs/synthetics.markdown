@@ -2,7 +2,7 @@
 layout: default
 title: Synthetic Morphs
 parent: Morphs
-nav_order: 3
+nav_order: 4
 ---
 
 # Synthetic Morphs
@@ -11,10 +11,10 @@ Synthetic morphs are completely artificial/robotic. They are usually operated by
 
 All synthmorphs have the following advantages:
 
-*   Lack of Biological Functions. Synthmorphs need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life.
-*   Pain Filter. Synthmorphs can filter out their pain receptors so that they are unhampered by wounds or physical damage. This allows them to ignore any **_damage tags_** but they are `+glitched` on any tactile-based rolls and will sometimes not even notice they have been damaged.
-*   Environmental Durability. Synthmorphs are built to withstand a wide range of environments, from dusty Mars to the oceans of Europa to the vacuum of space. They are unaffected by any but the most extreme temperatures and atmospheric pressures. `+temperature tolerance` and `+vacuum sealing`.
-*   Toughness. Synthetic shells are made to last—a fact reflected in their built in Armor ratings.
+- Lack of Biological Functions. Synthmorphs need not be bothered with trivialities like breathing, eating, defecating, aging, sleeping, or any similar minor but crucial aspects of biological life.
+- Pain Filter. Synthmorphs can filter out their pain receptors so that they are unhampered by wounds or physical damage. This allows them to ignore any **_damage tags_** but they are `+glitched` on any tactile-based rolls and will sometimes not even notice they have been damaged.
+- Environmental Durability. Synthmorphs are built to withstand a wide range of environments, from dusty Mars to the oceans of Europa to the vacuum of space. They are unaffected by any but the most extreme temperatures and atmospheric pressures. `+temperature tolerance` and `+vacuum sealing`.
+- Toughness. Synthetic shells are made to last—a fact reflected in their built in Armor ratings.
 
 **Case:**  
 Cases are extremely cheap, mass-produced robotic shells intended to provide an affordable remorphing option for the millions of infugees created by the Fall. Though many varieties of case shells exist, they are uniformly regarded as shoddy and inferior. Most case morphs are vaguely anthropomorphic, with a thin framework body standing just shorter than an average human. They suffer from frequent malfunctions.  
