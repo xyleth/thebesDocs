@@ -28,14 +28,14 @@ Characters also have 2 Stats associated with their [Background](https://htmltomd
 **Moves**  
 Game mechanics are expressed as “Moves.” Most moves require you to “roll `+(Stat)`” wherein you roll 2d6 and add the appropriate stat. A 10+ is a total success, a 7-9 is a partial success, granting the GM some power to complicate matters, and a 6- is a failure, granting the GM even more power to make the narrative go in ways not altogether to your liking. The GM never rolls dice, but rather reacts entirely to your die rolls as appropriate to the fiction.
 
-**_Roll Modifiers_**  
+**_Roll Modifiers_**
 
-*   `+(n)forward` = apply “n” to your next die roll.
-*   `+(n)ongoing` = apply “n” to all die rolls until the situation granting the bonus goes away.
-*   `+boosted` = die rolls that result in 6- are raised to 7. You cannot fail. If you are `boosted` from more than one source, you are now `+elevated`.
-*   `+elevated` = die rolls that result in 6- become a 7-9. Die rolls that are 7-9 become 10+. Die rolls at 10+ become 12.
-*   `+glitched` = die rolls that result in 10+ are reduced to 9. You cannot fully succeed. If you are `glitched` from more than one source, you are now `+degraded`.
-*   `+degraded` = die rolls that result in a 10+ are reduced to 7-9. Die rolls that are 7-9 are reduced to 6-.
+- `+(n)forward` = apply “n” to your next die roll.
+- `+(n)ongoing` = apply “n” to all die rolls until the situation granting the bonus goes away.
+- `+boosted` = die rolls that result in 6- are raised to 7. You cannot fail. If you are `boosted` from more than one source, you are now `+elevated`.
+- `+elevated` = die rolls that result in 6- become a 7-9. Die rolls that are 7-9 become 10+. Die rolls at 10+ become 12.
+- `+glitched` = die rolls that result in 10+ are reduced to 9. You cannot fully succeed. If you are `glitched` from more than one source, you are now `+degraded`.
+- `+degraded` = die rolls that result in a 10+ are reduced to 7-9. Die rolls that are 7-9 are reduced to 6-.
 
 **_Exceptional Success_**  
 If the roll on a move is 12+, it counts as an **_exceptional success_**. The GM and the player are encouraged to come up with some manner in which the character succeeds even more stylishly or effectively than normal.
@@ -81,3 +81,8 @@ When the GM **_inflicts incidental fire_**, the PC rolls the **_damage move_** o
 When the GM **_inflicts concentrated fire_**, the PC rolls the **_damage move_** or **_trauma move_** without modifier, as normal.
 
 Note: If the GM has also spent **_hold_**, or or the PC took damage from some other source that round, it is entirely possible that a PC may have to roll a damage move more than once in a round.
+
+**Data Points**
+Data Points are small but critically useful bits of information about a particular subject, which can be leveraged to tip the scales during a tense moment. Each Data Point concerns a specific topic or subject, and can be spent to grant Advantage to any roll that directly involves or leverages the information in that Data Point. Only one Data Point can be spent per roll, no matter how many would apply.
+
+Data Points are rewards for successfully completing certain activities, like research or investigation. There are no limits to how many Data Points a character can have, or how many they can have about the same or similar subject, but the freshness and validity of the information must be maintained; Data Points quickly expire if they are no longer pertinent or are rendered obsolete/out-of-date.
