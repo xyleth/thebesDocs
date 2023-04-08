@@ -69,7 +69,7 @@ You have two condition tracks corresponding to the physical damage taken by your
 
 When you take physical damage, you will roll the **_damage move_**. When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the **_trauma move_**. Both of these moves are [Basic Moves](/content/moves/basicmoves).
 
-Damage can be healed with medical attention. Sanity can never be healed except through [Psychosurgery](/content/psi#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
+Damage can be healed with medical attention. Sanity can never be healed except through [Psychosurgery](/content/moves/tech#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
 
 **Battle**  
 When you engage in a full-on battle (not just some random violence) the narrative becomes more formal. Each “round” of battle represents a discrete narrative segment. In each round, every player can describe a single narrative action that their character takes. This action can involve the use of one or more moves. There are special [Battle Moves](/content/moves/battlemoves) that become available only in Battle. Also, a number of other moves specify that they are rolled when you **_go into battle_**. These moves are rolled at the beginning of the Battle.

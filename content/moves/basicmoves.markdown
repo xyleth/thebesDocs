@@ -10,7 +10,7 @@ nav_order: 2
 All characters have access to all Basic Moves:
 
 **Access the Mesh**  
-You may only **_access the mesh_** if you have an ecto (personal computer) or your [Morph](https://htmltomd.com/wikis/morph) has `+mesh inserts`. When you need to know something quickly, roll+Cognition. On 10+, you get the information you need in the nick of time. On 7-9, you get something related, if not entirely on point.
+You may only **_access the mesh_** if you have an ecto (personal computer) or your [Morph](/content/morphs) has `+mesh inserts`. When you need to know something quickly, roll+Cognition. On 10+, you get the information you need in the nick of time. On 7-9, you get something related, if not entirely on point.
 
 **Aid/Hinder**  
 When you **_take the time to aid or hinder another PC_**, they are `+boosted` or `+glitched`, your choice, but you share in any consequences of their action. Only one person may Aid/Hinder any given action.
