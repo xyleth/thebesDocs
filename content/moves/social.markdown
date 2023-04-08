@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Social Moves
-parent: Choose Moves
+parent: Moves
 grand_parent: Character Creation
 nav_order: 4
 ---

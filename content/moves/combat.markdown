@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat Moves
-parent: Choose Moves
+parent: Moves
 grand_parent: Character Creation
 nav_order: 1
 ---
