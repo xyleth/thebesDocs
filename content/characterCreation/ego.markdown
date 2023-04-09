@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Ego
 
-Your Ego is who you are as a person. It has nothing to do with your [body](https://htmltomd.com/wikis/morph) and everything to do with your mind, memories, and personality. In game terms, your Ego is represented by six Stats:
+Your Ego is who you are as a person. It has nothing to do with your [body](/content/morphs) and everything to do with your mind, memories, and personality. In game terms, your Ego is represented by six Stats:
 
 **_Cognition_** – Your ego’s ability to find and apply information quickly.  
 **_Intuition_** – Your ego’s ability to efficiently process external stimuli

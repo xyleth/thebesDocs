@@ -7,14 +7,14 @@ nav_order: 1
 
 Your Background determines a number of things about your character. Are they in their original body? Were they infomorph refugees from fallen Earth? Are they poor? Rich?
 
-Select your Background from the list below. Your background gives you a free move, details your starting [morph](https://htmltomd.com/wikis/morph) options, as well as your starting Background stats.
+Select your Background from the list below. Your background gives you a free move, details your starting [morph](/content/charactercreation/morph) options, as well as your starting Background stats.
 
 The many complicated, and often-competing economies of transhumanity all rely on one of two types of wealth which are represented by two stats:
 
 **_Rep_** – Your personality’s aggregate reputation among all social media  
 **_Resources_** – Your access to credits and other physical assets
 
-These stats start at 0 unless otherwise indicated below. For more information on Rep and Resources, see [Basic Moves](https://htmltomd.com/wikis/basic-moves) and [Gear](https://htmltomd.com/wikis/gear).
+These stats start at 0 unless otherwise indicated below. For more information on Rep and Resources, see [Basic Moves](/content/moves/basicmoves) and [Gear](/content/gear).
 
 **Choose 1:**
 
@@ -33,7 +33,7 @@ You were born and raised on Earth and evacuated during the horrors of the Fall, 
 **_Hyperelite_**  
 You are privileged to have been raised as part of the immortal upper class that rules many inner system habitats and hypercorps. You were pampered with wealth and influence that most people can only dream of.  
 **_Starting Morph:_** Any except Flat, Splicer, Futura, Pod, Uplift, or any Synthmorph.  
-**_Move:_** [Wealth](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Wealth) or [Life of the Party](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Party)  
+**_Move:_** [Wealth](/content/moves/logistics#Wealth) or [Life of the Party](/content/moves/social#Party)  
 **_Background Stats:_** Resources at +2
 
 **_Indenture_**  
@@ -59,7 +59,7 @@ You were raised as part of a self-exiled grouping on the fringes of the system. 
 You are a legacy of one of the most infamous debacles since the Fall. As a member of the “Lost generation,” you went through an accelerated-growth childhood, somehow surviving where others of your kind died, went insane, or were persecuted. Your background is a social stigma, but it does provide you with certain advantages … and burdens.  
 **_Extras:_** `+stigmatized`  
 **_Starting Morph:_** Futura  
-**_Move:_** [Watts-MacLeod Infection](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Watts)  
+**_Move:_** [Watts-MacLeod Infection](/content/moves/special)  
 **_Background Stats:_** Rep at -1
 
 **_Lunar Colonist:_**  
