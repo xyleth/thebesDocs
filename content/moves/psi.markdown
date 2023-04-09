@@ -11,6 +11,23 @@ nav_order: 8
 
 **_Note:_** You may only take these moves if you have the `+psi` tag. Psi moves only affect biomorphs, and can only be used if your ego is inhabiting a biomorph.
 
+Upon gaining the `+psi` tag you get an 'infection' track: 0/1/2/3. When making any Psi move on a miss (6-) take `The Infection Advances` special move. You also gain the `Calm the Beast` move.
+
+## The Infection Advances
+
+Roll-infection. On a 10+ you successfully resist the infections hold on you. On a 7-9 choose 2:
+
+- Advance the infection track by 1
+- You are `glitched` forward
+- You wrestle with your infection. You are catatonic util the end of the scene or another player snaps you out of it
+- Your next action is driven by your infection, not you
+
+On a miss (6-) advance the infection track by 1 and the GM gains hold 2 over you until the end of the scene.
+
+## Calm the Beast
+
+Meditation, yoga, substance abuse - whatever it is, it works. Once per day of game time you may engage in your chosen routine to manage your infection. Roll+Willpower. On an 10+ reduce your infection rating by 2, to a minimum of 0. On a 7-9 reduce it by 1, to a minimum of 1. On a miss there is no change, but the experience leaves you `boosted` forward regardless.
+
 **Impulse:**  
 In battle, you can use your psychic training as a weapon with (n-damage ap-2 close/far), where n- is equal to your **_Willpower_**.
 
