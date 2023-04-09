@@ -7,8 +7,8 @@ nav_order: 1
 
 ### **Gameplay Tags:**
 
-- `+boosted` – See [Core Concepts](https://htmltomd.com/wikis/core-concepts)
-- `+degraded` – See [Core Concepts](https://htmltomd.com/wikis/core-concepts)
-- `+elevated` – See [Core Concepts](https://htmltomd.com/wikis/core-concepts)
-- `+glitched` – See [Core Concepts](https://htmltomd.com/wikis/core-concepts)
-- `+psi` – You can purchase Psi [Moves](https://htmltomd.com/wikis/moves)
+- `+boosted` – See [Core Concepts](/content/rules/coreconcepts)  
+- `+degraded` – See [Core Concepts](/content/rules/coreconcepts)  
+- `+elevated` – See [Core Concepts](/content/rules/coreconcepts)  
+- `+glitched` – See [Core Concepts](/content/rules/coreconcepts)  
+- `+psi` – You can purchase Psi [Moves](/content/moves/psi)  

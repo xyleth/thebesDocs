@@ -30,9 +30,9 @@ nav_order: 3
 - `+circadian regulation` – You can control when, and how much you sleep. Too much use may cause you to become `+glitched`
 - `+clean metabolism` – Your symbiotic biome is engineered for cleanliness. You don’t stink, can’t get infections, can’t get cavities, and produce less solid waste.
 - `+drug glands` – You have specialized glands that can release one or a handful of drugs into your system at will.
-- `+eelware` – You have implants that emulate the effects of shock gloves (see [Gear](https://htmltomd.com/wikis/gear)).
+- `+eelware` – You have implants that emulate the effects of shock gloves (see [Gear](/content/gear)).
 - `+emotional dampers` – When activated, you are `+boosted` on any move to deceive or lie, but `+glitched` on any attempt to persuade or seduce.
-- `+endocrine control` – You can completely control your appetite and emotions and regulate pain. Gain the **_[Emotion Suppression](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Emotion)_** move.
+- `+endocrine control` – You can completely control your appetite and emotions and regulate pain. Gain the **_[Emotion Suppression](/content/moves/social#Emotion)_** move.
 - `+enhanced pheromones` – You are `+boosted` in any social interactions with sexually compatible biomorphs.
 - `+enhanced respiration` – You can live comfortably in high or low pressure environments, and can hold your breath longer.
 - `+gills` – You can extract oxygen from breathing water
@@ -51,7 +51,7 @@ nav_order: 3
 
 - `+360 degree vision` – You can see all around yourself.
 - `+armor plating` – Upgrades an intrinsic armor rating of +1 to +2
-- `+cyberbrain` – Your [Ego](https://htmltomd.com/wikis/ego) is susceptible to hacking
+- `+cyberbrain` – Your [Ego](/content/charactercreation/ego) is susceptible to hacking
 - `+extreme heat shielding` – You can survive in extreme heat, but not in temperatures below 250C
 - `+extreme pressure adaptation` – You can survive in extremely high pressures, but not at normal habitat pressures.
 - `+fractal digits` – Your digits can split, then split, then split some more, allowing for micro-fine manipulation.

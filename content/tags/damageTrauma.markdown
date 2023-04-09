@@ -9,7 +9,7 @@ nav_order: 2
 
 - `+disassociated` – You are `+glitched` on all **_trauma move_** rolls.
 - `Dead` – Not a tag, so much, as a state of being. If you don’t have a `+cortical stack`, you’re gone.
-- `+eccentric` – Gain the [Eccentric](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Eccentric) move
+- `+eccentric` – Gain the [Eccentric](/content/moves/personal#Eccentric) move
 - `Insane` – Not a tag, so much, as a state of being. You are unrecoverably insane. Retire your character.
 - `+odd` – You’re a bit off, no game mechanical detriment
 - `+scuffed` – Minor damage, no game mechanical detriment
