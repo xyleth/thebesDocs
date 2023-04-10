@@ -6,21 +6,21 @@ nav_order: 6
 
 # Gear
 
-*   **_[Starting Gear](#starting-gear)_**
-*   **_[Currency](#currency)_**
-*   **_[Basic Weapons](#basic-weapons)_**
-*   **_[Heavy Weapons](#heavy-weapons)_**
-*   **_[Armor](#armor)_**
-*   **_[Implants and Upgrades](#implants)_**
-*   **_[Medical Supplies](#medical)_**
-*   **_[Drugs](#drugs)_**
-    *   **_[Cognitive Drugs](#ognitive)_**
-    *   **_[Combat Drugs](#ombat)_**
-    *   **_[Health Drugs](#health)_**
-    *   **_[Recreational Drugs](#recreational)_**
-    *   **_[Social Drugs](#social)_**
-    *   **_[Nanodrugs](#nano)_**
-    *   **_[Narcoalgorithms](#narco)_**
+- **_[Starting Gear](#starting-gear)_**
+- **_[Currency](#currency)_**
+- **_[Basic Weapons](#basic-weapons)_**
+- **_[Heavy Weapons](#heavy-weapons)_**
+- **_[Armor](#armor)_**
+- **_[Implants and Upgrades](#implants)_**
+- **_[Medical Supplies](#medical)_**
+- **_[Drugs](#drugs)_**
+  - **_[Cognitive Drugs](#ognitive)_**
+  - **_[Combat Drugs](#ombat)_**
+  - **_[Health Drugs](#health)_**
+  - **_[Recreational Drugs](#recreational)_**
+  - **_[Social Drugs](#social)_**
+  - **_[Nanodrugs](#nano)_**
+  - **_[Narcoalgorithms](#narco)_**
 
 ### Starting Gear
 
@@ -28,15 +28,15 @@ In a world with nanofabrication technology, most basic gear is cheap to the poin
 
 Some examples:
 
-*   A basic weapon (see below)
-*   Some armor (no higher than 2-armor)
-*   An extra [morph](https://htmltomd.com/wikis/morph) tucked away somewhere, even an exotic morph
-*   Resleeving Insurance – pre-paid rebirth should you die
-*   A fully instanced alpha, beta, or delta fork of yourself
-*   A rare or exotic implant or upgrade
-*   Secrets about a particular faction
-*   Medical and field-triage equipment
-*   A favor or favors owed by a particular person or group
+- A basic weapon (see below)
+- Some armor (no higher than 2-armor)
+- An extra [morph](https://htmltomd.com/wikis/morph) tucked away somewhere, even an exotic morph
+- Resleeving Insurance – pre-paid rebirth should you die
+- A fully instanced alpha, beta, or delta fork of yourself
+- A rare or exotic implant or upgrade
+- Secrets about a particular faction
+- Medical and field-triage equipment
+- A favor or favors owed by a particular person or group
 
 ### Currency
 
@@ -56,29 +56,29 @@ Weaponry is immensely varied and exotic, with new templates being designed for n
 
 Add up to 3 of the following advantages:
 
-*   +1-damage
-*   +1-damage
-*   `+ap-1`
-*   `+autofire`
-*   `+bug`
-*   `+burn`
-*   `+capsule`
-*   `+far` instead of `+close`
-*   `+far` in addition to `+close` (takes 2 choices)
-*   `+implanted`
-*   `+jammer`
-*   `+messy`
-*   `+seeker`
-*   `+shock`
+- +1-damage
+- +1-damage
+- `+ap-1`
+- `+autofire`
+- `+bug`
+- `+burn`
+- `+capsule`
+- `+far` instead of `+close`
+- `+far` in addition to `+close` (takes 2 choices)
+- `+implanted`
+- `+jammer`
+- `+messy`
+- `+seeker`
+- `+shock`
 
 And take up to 2 of the following flaws:
 
-*   `+bio`
-*   `+hi-tech`
-*   `+loud`
-*   `+recoil`
-*   `+reload` (cannot take with `+autofire`)
-*   `+synth`
+- `+bio`
+- `+hi-tech`
+- `+loud`
+- `+recoil`
+- `+reload` (cannot take with `+autofire`)
+- `+synth`
 
 The finished weapon must have no more than +1 net advantage.
 
@@ -107,25 +107,25 @@ Heavy weapons are created much like basic weapons, using the following choices:
 
 Add up to 3 of the following advantages:
 
-*   +1-damage
-*   +1-damage
-*   `+ap-1`
-*   `+ap-2` (takes 2 choices)
-*   `+area`
-*   `+burn`
-*   `+far` in addition to `+close`
-*   `+implanted` (combat synthmorphs only)
-*   `+seeker`
+- +1-damage
+- +1-damage
+- `+ap-1`
+- `+ap-2` (takes 2 choices)
+- `+area`
+- `+burn`
+- `+far` in addition to `+close`
+- `+implanted` (combat synthmorphs only)
+- `+seeker`
 
 And take up to 2 of the following flaws:
 
-*   `+bio`
-*   `+hi-tech`
-*   `+loud`
-*   `+recoil`
-*   `+refill` (counts as 2 flaws)
-*   `+reload`
-*   `+synth`
+- `+bio`
+- `+hi-tech`
+- `+loud`
+- `+recoil`
+- `+refill` (counts as 2 flaws)
+- `+reload`
+- `+synth`
 
 The finished weapon must have no more than +1 net advantage.
 
@@ -143,9 +143,9 @@ Armor can either be worn by your [morph](https://htmltomd.com/wikis/morph) or in
 
 Armor comes in three categories:
 
-*   Light armor (1-armor) is the most common, taking the form of clothing made of smart materials, subdermal implants, or simply being made out of durable materials.
-*   Combat armor (2-armor) tends to be bulky and obvious, taking forms like thick crab-like carapace, sealed suits of armor, or thick armor plating bolted to your chassis.
-*   Heavy armor (3-armor) is rare, found usually on dedicated combat synthmorphs and machines of war.
+- Light armor (1-armor) is the most common, taking the form of clothing made of smart materials, subdermal implants, or simply being made out of durable materials.
+- Combat armor (2-armor) tends to be bulky and obvious, taking forms like thick crab-like carapace, sealed suits of armor, or thick armor plating bolted to your chassis.
+- Heavy armor (3-armor) is rare, found usually on dedicated combat synthmorphs and machines of war.
 
 ### Implants and Upgrades
 
@@ -155,27 +155,25 @@ The galaxy is full of hi-tech nanoware implants for biomorphs or software or har
 
 Trained medical professionals, such as those with the **_[Battlefield Medic](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Medic)_** move, may use a medical kit in the following fashion:
 
-Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
+Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. A fresh, unopened medical kit as a stock score of 10. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
 
-To use it to remove `+wounded` or `+stunned`, roll+Stock spent. On a hit, they will stabilize and heal to their third `+scuffed` tag, and choose 2 (on a 10+) or 1 (on a 7–9):
+To use it to remove `+stunned`, roll+Stock spent. On a hit, they will stabilize and heal to their third `+scuffed` tag, and choose 2 (on a 10+) or 1 (on a 7–9):
 
-*   they fght you and you have to sedate them. How long will they be out?
-*   the pain and drugs make them babble the truth to you. Ask them what secret they spill.
-*   they respond very well to treatment. Recover 1 of the stock you spent, if you spent any.
-*   they’re at your complete mercy. What do you do to them?
-*   their course of recovery teaches you something about your craft. Mark experience.
-*   they owe you for your time, attention, and supplies, and you’re going to hold them to it.
+- they fight you and you have to sedate them. How long will they be out?
+- the pain and drugs make them babble the truth to you. Ask them what secret they spill.
+- they respond very well to treatment. Recover 1 of the stock you spent, if you spent any.
+- they’re at your complete mercy. What do you do to them?
+- their course of recovery teaches you something about your craft. Mark experience.
+- they owe you for your time, attention, and supplies, and you’re going to hold them to it.
 
-On a miss, they mark one more off the **_damage track_**
+On a miss, they mark one more off the [damage track](#damage-track)
 
-To use it to speed the recovery of someone who is `+scuffed`: don’t roll. they choose: you spend 1-stock and they spend 3 days per `+scuffed` mark loopy from painkillers, or else they do their time in pain like everyone else.
+To use it to revive someone who’s on death’s door (`Dead`, but not beyond, and not for long - they died in the current scene): spend 2-stock. Choose 1 of the above, and they come back, but you get to choose how they come back:
 
-To use it to revive someone who’s on death’s door (`Dead`, but not beyond, and not for long): spend 2-stock. Choose 1 of the above, and they come back, but you get to choose how they come back:
-
-*   they come back in your deep, deep debt
-*   they come back with -1 Somatics
-*   they come back with -1 Coordination
-*   they come back with -1 Willpower
+- they come back in your deep, deep debt
+- they come back with -1 Somatics
+- they come back with -1 Coordination
+- they come back with -1 Willpower
 
 **_Nanobandages:_** These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, heal two checks off the **_damage track_**. On a 7-9, heal one check. On a failure, the bandage is wasted and you may have made things worse.
 
@@ -186,16 +184,16 @@ Drugs are usually of benefit (or detriment) only to biomorphs, but most can be r
 **_Drug Use_**  
 when you indulge in a drug, roll+Willpower. On a 10+, you experience the effects as normal. On 7-9, you experience the effects but with some drawbacks:
 
-*   You had a bad batch. Roll the **_damage move_** or the **_trauma move_** (your choice)
-*   It wasn’t very potent. The effect lasts half as long
-*   You feel sick. You are `+glitched` ongoing until the effect wears off.
+- You had a bad batch. Roll the **_damage move_** or the **_trauma move_** (your choice)
+- It wasn’t very potent. The effect lasts half as long
+- You feel sick. You are `+glitched` ongoing until the effect wears off.
 
 On a 6-, you become addicted to the drug. You must indulge at least once a session, or otherwise roll the **_trauma move_**. If you go 3 sessions without a hit, roll+Willpower. On a hit, you are no longer addicted. On a 7-9, you are `+glitched` ongoing until the withdrawal wears off. On a miss, you are still hooked. If you roll snake eyes on this move, you overdose and go directly to `Unconscious` or `Dead`… your choice.
 
 **Drug List:**
 
-  
-#### Cognitive Drugs  
+#### Cognitive Drugs
+
 **_Drive:_** This nootropic speeds up left-right brain hemisphere communication, stimulates idea production, and improves concentration, with no usual side effects.  
 **_Effects:_** `+boosted` to **_take a chance_** rolls using Cognition  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -208,8 +206,8 @@ On a 6-, you become addicted to the drug. You must indulge at least once a sessi
 **_Effects:_** `+eidetic memory` to recall information learned while on Neem.  
 **_Addiction:_** As **_drug use_**.
 
-  
 #### Combat Drugs
+
 **_Bringit:_** In some respects more a social than a combat drug, BringIt stimulates massive bursts of aggression pheromones designed to make the user the center of attention in a fight.  
 **_Effects:_** Enemies will tend to prioritize the drug user over other targets  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -231,8 +229,8 @@ strength. MRDR users are easily identifiable by the broken blood vessels in thei
 **_Effects:_** `+neurachem`  
 **_Addiction:_** As **_drug use_**.
 
-  
 #### Health Drugs
+
 **_Bananas Furiosas:_** This drug reverses some of the effects of de-ionizing radiation on the cells of the body. Although a pill form is available, it most commonly comes in large bunches of bright orange-red bananas.  
 **_Effect:_** Bananas reduce the severity of a radiation dosage (gamemaster determines effect).  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
@@ -242,8 +240,8 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Effect:_** May ignore `+shaken` and `+rattled`  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
 
-  
 #### Recreational Drugs
+
 **_Buzz:_** This gene-modified variant of BZ is an odorless, invisible, extremely powerful hallucinogen. Users or affected characters will undergo extremely realistic hallucinations for the duration, and may even “share” hallucinations with other affected characters.  
 **_Effect:_** `+degraded` to any tests to remember what occurred while under the influence.  
 **_Addiction:_** As **_drug use_**.
@@ -256,8 +254,8 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Effects:_** May ignore `+odd` and `+eccentric`. `+glitched` on all memory related rolls.  
 **_Addiction:_** `+boosted` on **_drug use_** rolls.
 
-  
 #### Social Drugs
+
 **_Alpha:_** Alpha is a more subtle version of BringIt, popular with hypercorp execs, street thugs, and anyone else who wants to come across as a domineering asshole. The pharm designer who invented it had a retro sensibility (and maybe a sick sense of humor); Alpha is typically synthesized as a sparkling white powder designed to be snorted. Alpha stimulates production of threat pheromones, but less bluntly than BringIt. Alpha imparts confidence, a feeling of power, and alertness.  
 **_Effects:_** Users can function without sleep for 4 days, after which point they need to catch up with at least 4 hours of sleep. `+boosted` on all rolls to intimidate, persuade, or network with others within 2 meters. On the downside, alpha users are impatient, unfocused assholes. At the gamemaster’s discretion, the character is instead `+glitched` with certain types of people.  
 **_Addiction:_** `+glitched` on **_drug use_** rolls.
@@ -270,8 +268,8 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Effects:_** `+boosted` on all **_trauma move_** rolls, but is also likely to act inappropriately, like giggling over the massive amount of spilled blood or cheerfully changing the subject to inane topics when someone else is freaking out.  
 **_Addiction:_** As per **_drug use_**.
 
-  
 #### Nanodrugs
+
 **_Frequency:_** Frequency (or Freeq) is a nanodrug designed as a tool for scientific visualization. It releases a small swarm of nanobots into the character’s bloodstream that settle in the epidermis, where they act as sensors of electromagnetic radiation. This sensory input is then injected into the character’s visual and tactile sensoria, hitting the user with a sequence of novel stimuli, typically a light show or weird tactile sensations. Aside from its recreational uses, Frequency is good at picking up on localized field radiation  
 **_Effects:_** `+electrical sense`, `+radiation sense`. Similar to now-obsolete 20th-century hallucinogens like LSD and psilocybin, however, a Frequency trip can be disorienting and upsetting. Roll the **_trauma move_**. Characters typically experience a period about 1/3 of the way through their trip in which sensory input is extremely intense; during this period, which usually lasts about 2 hours, they are unable to read.  
 **_Addiction:_** As per **_drug use_**.
@@ -289,6 +287,7 @@ use of Comfurt can lead to chronic itchiness caused by histamine release.
 **_Addiction:_** Varies
 
 #### Narcoalgorithms
+
 **_Narcoalgorithms:_** Narcoalgorithms are software programs that simulate the effects of drugs on biological bodies. Almost all bio, chemical, and nano drugs can be replicated as narcoalgorithms, with corresponding effect (gamemaster discretion). Standard duration is 3 hours. Addiction to narcoalgorithms is considered mental. Narcoalgorithms may be run by infomorphs, egos encased in cyberbrains (pods and synthmorphs), simulmorphs, and even AIs.
 
 **_DDR:_** Originally crafted by prankster hackers and distributed as a virus, DDR (for “Dance Dance Robot”) triggers impulses in the target’s motor control circuits. Primary targeting robot AIs, the effect is that targets “dance” in jerky, automated movements. Pleasure receptors are also activated so that dancing—and movement of any kind—feels good. Different software variants invoke different motions and styles.  
