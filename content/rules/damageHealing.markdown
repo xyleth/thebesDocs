@@ -38,17 +38,17 @@ When you **_take physical damage_** from something, roll+Armor. On a 10+, you ab
 
 On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
-- You're out of action: Unconcious, trapped, inchoerent or panicked.
+- You're out of action: Unconscious, trapped, incoherent or panicked.
 - It's worse than it seemed. Take and additional 1-harm.
 - Choose 2 from the 7-9 choices.
 
 ## Healing
 
-`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichenes]() allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichenes to heal in combat.
+`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichines](#medichines) allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichines to heal in combat.
 
-The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichenes will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
+The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichines will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
 
-Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker]() move. Stabilising a `wounded` character may be attempted with **medical supplies**.
+Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker]() move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](medichines) for more details.
 
 ### Medical supplies
 
@@ -56,9 +56,9 @@ Trained medical professionals, such as those with the **_[Battlefield Medic](htt
 
 Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. A fresh, unopened medical kit as a stock score of 10. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
 
-If the target has `medichenes` you are `boosted` on the below rolls.
+If the target has `medichines` you are `boosted` on the below rolls.
 
-To use it to remove `+stunned`, roll+Stock spent. On a hit, they will stabilize and heal to their third `+scuffed` tag, and choose 2 (on a 10+) or 1 (on a 7–9):
+To use it to remove `+stunned`, roll+Stock spent. On a hit, they will stabilise and heal to their third `+scuffed` tag, and choose 2 (on a 10+) or 1 (on a 7–9):
 
 - they fight you and you have to sedate them. How long will they be out?
 - the pain and drugs make them babble the truth to you. Ask them what secret they spill.
@@ -74,10 +74,23 @@ On a miss, they mark one more off the [damage track](#damage-track). This can ki
 To use it to revive someone who’s on death’s door (`Dead`, but not beyond, and not for long - they died in the current scene): spend 2-stock. Choose 1 of the above, and they come back, but you get to choose how they come back:
 
 - they come back in your deep, deep debt
-- they come back with -1 Somatics
+- they come back with -1 Reflex
 - they come back with -1 Coordination
 - they come back with -1 Willpower
 
 ### Nanobandages
 
 These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, stabilise a `wounded` character or heal two checks off the **_damage track_**. On a 7-9, there is no effect on a `wounded` character, all others heal one check. On a failure, the bandage is wasted and you may have made things worse.
+
+### Medichines
+
+You have elaborate, custom built medical technology in your body.
+
+- When you **go into battle** you heal 1 `scuffed` box per round
+- Heal the `scuffed` box in between scenes, leaving 2 `scuffed` boxes at the start of the next scene
+- Automatically enter a healing coma upon becoming `wounded`
+- You are `boosted` on all rolls made to heal you with a medical supplies kit
+
+A character may choose to attempt to avoid automatically being placed into a coma when becoming `wounded`. Roll+Willpower. On a 10+ you are `wounded` but may continue to act normally. On a 7-9 the same, but the strain causes you to mark 1 additional wound at the end of the scene unless you can access medical care. On a Miss you fall into a coma.
+
+A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They come heal the `wounded` box and are meerly `stunned`. This will not be healed by their medichines until the following scene ends.
