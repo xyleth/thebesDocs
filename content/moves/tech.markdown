@@ -82,3 +82,6 @@ When you **_engage in psychosurgery_** upon a neural backup, fork, AGI, or emula
 - Take Care: Grant the subject `+boosted` on the subsequent **_trauma move_** (see below)
 
 The subject then rolls the **_trauma move_**. In addition to the normal effects, on a 10+, the subject may choose whether to keep the changes or reject them. On a 7-9, the changes take effect, but the subject may choose one change that is only temporary. It will fade in a few weeks. On a failure, the changes take effect permanently, and the subject marks one check on the **_sanity track_** as normal.
+
+**_Glitch in the System_**  
+You can see the tiny flaws in any virtual system. You always know if you have the `+virtual` tag, and you always know if you’re in a simulspace or some other virtual reality. While `+virtual` you can **_glitch the system_**. Roll+Willpower. On a hit, you can change one aspect of the reality around you. On a 10+, you gain partial administrator access permitting follow-up, minor changes.
