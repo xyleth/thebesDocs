@@ -74,8 +74,8 @@ On a miss, they mark one more off the [damage track](#damage-track). This can ki
 To use it to revive someone who’s on death’s door (`Dead`, but not beyond, and not for long - they died in the current scene): spend 2-stock. Choose 1 of the above, and they come back, but you get to choose how they come back:
 
 - they come back in your deep, deep debt
+- they come back with -1 Hard
 - they come back with -1 Reflex
-- they come back with -1 Coordination
 - they come back with -1 Willpower
 
 ### Nanobandages
