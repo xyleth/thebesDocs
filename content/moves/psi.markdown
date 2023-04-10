@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Psi Moves
+has_children: true
 parent: Moves
 nav_order: 8
 ---
@@ -11,7 +12,7 @@ To gain Psi moves you may take the following special move at Character creation.
 
 ## Watts-MacLeod Infection
 
-You have been infected with the Watts-MacLeod strain of the exsurgent virus. Gain `+psi` and mark one off the **_sanity track_** which can never be cured or removed. When you **_assess the situation_**, you may roll+Willpower instead of +Intuition. You also gain the [The Infection Advances](#the-infection-advances) and [Calm the Beast](#calm-the-beast) moves. Finally add the [The Infection Track](#the-infection-track) to your character sheet.
+You have been infected with the Watts-MacLeod strain of the exsurgent virus. Gain `+psi` and mark one off the **_sanity track_** which can never be cured or removed. When you **_assess the situation_**, you may roll+Willpower instead of +Intuition. You also gain the [The Infection Advances](#the-infection-advances) and [Calm the Beast](#calm-the-beast) moves. Next choose the Strain of your infection and it's influence effects. Finally add the [The Infection Track](#the-infection-track) to your character sheet.
 
 ## The infection track
 
@@ -26,7 +27,7 @@ Roll-infection. On a 10+ you successfully resist the infections hold on you. On 
 - You wrestle with your infection. You are catatonic util the end of the scene or another player snaps you out of it
 - Your next action is driven by your infection, not you
 
-On a miss (6-) advance the infection track by 1 and the GM gains hold 2 over you until the end of the scene.
+On a miss (6-) advance the infection track by 1 and the GM gains hold 2 over you until the end of the session that can be spent to trigger your influence effects.
 
 ## Calm the Beast
 
