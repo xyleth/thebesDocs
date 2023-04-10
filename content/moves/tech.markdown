@@ -3,6 +3,7 @@ layout: default
 title: Tech Moves
 parent: Moves
 nav_order: 5
+has_children: true
 ---
 
 **Tech Moves:**
