@@ -44,15 +44,15 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 ## Healing
 
-`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichines](#medichines) allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichines to heal in combat.
+`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichines](medichines) allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichines to heal in combat.
 
 The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichines will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
 
-Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker]() move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](medichines) for more details.
+Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker]() move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](#medichines) for more details.
 
 ### Medical supplies
 
-Trained medical professionals, such as those with the **_[Battlefield Medic](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Medic)_** move, may use a medical kit in the following fashion:
+Trained medical professionals, such as those with the **_[Battlefield Medic](/content/moves/combat#Medic)_** move, may use a medical kit in the following fashion:
 
 Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. A fresh, unopened medical kit as a stock score of 10. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
 
