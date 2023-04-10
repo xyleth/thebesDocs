@@ -48,7 +48,7 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichines will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
 
-Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker]() move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](#medichines) for more details.
+Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker](/content/moves/tech#Medical) move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](#medichines) for more details.
 
 ### Medical supplies
 
