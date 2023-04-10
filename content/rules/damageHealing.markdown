@@ -93,4 +93,4 @@ You have elaborate, custom built medical technology in your body.
 
 A character may choose to attempt to avoid automatically being placed into a coma when becoming `wounded`. Roll+Willpower. On a 10+ you are `wounded` but may continue to act normally. On a 7-9 the same, but the strain causes you to mark 1 additional wound at the end of the scene unless you can access medical care. On a Miss you fall into a coma.
 
-A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They come heal the `wounded` box and are meerly `stunned`. This will not be healed by their medichines until the following scene ends.
+A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They heal the `wounded` box and are meerly `stunned`. This will not be healed by their medichines until the following scene ends.
