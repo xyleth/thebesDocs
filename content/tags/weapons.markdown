@@ -5,7 +5,17 @@ parent: Tags
 nav_order: 4
 ---
 
-### **Weapon Tags:**
+## Range tags
+
+See [A note on ranges](/content/rules/combat.html#a-note-on-ranges) for details. The range tags are:
+
+- `+intimate`
+- `+hand`
+- `+close`
+- `+close/far`
+- `+far`
+
+## Weapon Tags:
 
 - `+ap` – Armor Piercing. Usually comes with a rating indicating how many points of **_armor_** the attack ignores (NPCs) or the penalty to your **_damage move_** (PCs).
 - `+area` – A weapon with this tag can hit multiple targets in an area, and ignores gang scaling.
