@@ -80,7 +80,7 @@ You have two condition tracks corresponding to the physical damage taken by your
 \[\] `+dissassociated`
 \[\] `Insane`
 
-When you take physical damage, you will roll the **_damage move_**. When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the **_trauma move_**. Both of these moves are [Basic Moves](/content/moves/basicmoves).
+When you take physical damage, you will roll the [Damage Move](/content/rules/damageHealing.html#damage-move). When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the [Trauma Move](/content/rules/traumaHealing.html#trauma-move). Both of these moves are [Basic Moves](/content/moves/basicmoves).
 
 Damage can be [healed](/content/rules/damageHealing.html) with medical attention. Sanity can never be healed except through [Psychosurgery](/content/moves/tech#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
 
