@@ -33,7 +33,7 @@ By default ALIs have the following Ego stats:
 
 Muses are specalised ALIs that serve as personal assistants, confidantes, best friends and therapists to their Transhuman partners. Most Transhumans get a muse in infancy and the two grow up together. Muses navigate the adminstrative complexity of life in AF10, handling the majority of paperwork and learning their partners preferences and automatically arranging things to their liking ahead of time.
 
-Muses uses the same stat lines as other ALIs, however they are not `glitched` when they take moves that relate to their partnered Transhuman. In addition a Muse has access to the [Psychosurgery](/content/moves/tech.html#psychosurgery) that can only be used on their partner. This move is `boosted` when taken agains their partner.
+Muses uses the same stat lines as other ALIs, however they are not `glitched` when they take moves that relate to their partnered Transhuman. In addition a Muse has access to the [Psychosurgery](/content/moves/tech.html#psychosurgery) that can only be used on their partner. This move is `boosted` when taken against their partner.
 
 ## Bots
 
