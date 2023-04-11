@@ -44,3 +44,9 @@ On a miss, mark 1 off the Sanity track.
 ## Healing Trauma
 
 Trauma is much harder to heal than damage to your morph. As damage to your very psyche it persists with your Ego and travels with you from morph to morph.
+
+- You can get someone to perform [Psychosurgery](/content/moves/tech.html#psychosurgery) on your ego
+- You can allow an async to perform the [Downtime](/content/moves/psi.html#downtime) move on you
+- You can wait it out, working on it with the aid of your Muse or an external Therapist
+
+For the latter option you can cure one box of `odd` per month of Therapy in which you do not accrue any further trauma. `eccentric` takes three months of uninterrupted therapy to heal before you can start on the `odd` boxes. `disassociated` requires Psychosurgery or the Downtime move as above.
