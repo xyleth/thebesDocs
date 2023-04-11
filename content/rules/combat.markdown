@@ -19,13 +19,13 @@ Notice that when you [Skirmish](/content/moves/basicmoves.html#skirmish) you rol
 
 ## Into Battle!
 
-If the violence is larger in scale, involving multiple participants, or more pre-planned in nature then the GM may decalre that we are **Going into Battle**. This has several effects:
+If the violence is larger in scale, involving multiple participants, or more pre-planned in nature then the GM may declare that we are **Going into Battle**. This has several effects:
 
 - Some moves specific that they activate whenever you **Go into Battle**
 - The order of things becomes slightly, but only slightly, more formalised
 - The [Battle Moves](/content/moves/battlemoves.html) become available for use to all characters
 
-To be clear there is no initiative, no order tracker or firm order in which each player goes. We are still narrating the story, only now we are being a little more focused. Here each scene spans only seconds or minutes of in-world time and typically involves characters executing a specific objective in the fight, along with corresponding reactions from the enemy. Remember you are not rolling to shoot someone once - you are instead rolling to resolve a short narrative segment where you run fowards, vault over the stack of crates between you and the enemy exsurgent and empty your clip into the back of their head at point-blank range!
+To be clear there is no initiative, no order tracker or firm order in which each player goes. We are still narrating the story, only now we are being a little more focused. A battle is a single scene that is further subdivided into segments. Here each segment spans only seconds or minutes of in-world time and typically involves characters executing a specific objective in the fight, along with corresponding reactions from the enemy. Remember you are not rolling to shoot someone once - you are instead rolling to resolve a short narrative segment where you run forward, vault over the stack of crates between you and the enemy exsurgent and empty your clip into the back of their head at point-blank range!
 
 Note that each round may involve one or more moves from each player, and players may have to roll the damage or trauma move more than once if the GM has spent hold on them.
 
