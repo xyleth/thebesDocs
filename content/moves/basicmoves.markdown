@@ -77,7 +77,8 @@ This roll may be `+boosted` if your new morph is identical or nearly identical t
 
 Finally, you must get used to any loss of continuity, or adapt to the idea that you may not be the only version of yourself out there. Roll the **_trauma move_**. This roll may be `+boosted` or `+glitched`, depending on the circumstances of your resleeving, even `+degraded` if the loss of time is too great. The GM may skip the continuity roll if there is no significant loss of time.
 
-**Damage Move**  
+## Damage Move
+
 When you **_take physical damage_** from something, roll+Armor. On a 10+, you absorb or avoid the blow entirely. On a 7-9, the GM chooses 1:
 
 - You lose your footing. `+glitched` ongoing until you can regain it.

@@ -44,7 +44,7 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 ## Healing
 
-`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichenes]() allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichenes to heal in combat.
+`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags.`medichenes` allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichenes to heal in combat.
 
 The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichenes will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
 
