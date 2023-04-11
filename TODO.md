@@ -7,3 +7,5 @@ List of things to do
 - [x] Remove gangs and any moves related to gangs
 - [] Adjust gear and tags to EP 2nd Edition
 - [] List gear costs as per EP 2nd Edition book, to determine what's free and what needs Procurement
+- [] Gear page in charcater creation needs an overview as well as a link
+- [] Need to do something with the `Develop Connections` page in Character Creation
