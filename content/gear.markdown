@@ -64,7 +64,7 @@ Add up to 3 of the following advantages:
 - `+burn`
 - `+capsule`
 - `+far` instead of `+close`
-- `+far` in addition to `+close` (takes 2 choices)
+- `+close/far` instead of `+close` (takes 2 choices)
 - `+implanted`
 - `+jammer`
 - `+messy`
