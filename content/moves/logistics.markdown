@@ -2,7 +2,7 @@
 layout: default
 title: Logistics Moves
 parent: Moves
-nav_order: 2
+nav_order: 4
 ---
 
 **Logistics Moves:**

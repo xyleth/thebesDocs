@@ -2,7 +2,7 @@
 layout: default
 title: Basic Moves
 parent: Moves
-nav_order: 2
+nav_order: 1
 ---
 
 # Basic Moves

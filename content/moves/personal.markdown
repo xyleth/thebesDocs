@@ -2,7 +2,7 @@
 layout: default
 title: Personal Moves
 parent: Moves
-nav_order: 3
+nav_order: 2
 ---
 
 **Personal Moves:**

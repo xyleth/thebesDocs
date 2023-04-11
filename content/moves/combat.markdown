@@ -2,7 +2,7 @@
 layout: default
 title: Combat Moves
 parent: Moves
-nav_order: 1
+nav_order: 3
 ---
 
 **Combat Moves:**

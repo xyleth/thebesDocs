@@ -2,7 +2,7 @@
 layout: default
 title: Battle Moves
 parent: Moves
-nav_order: 3
+nav_order: 6
 ---
 
 # Battle Moves
