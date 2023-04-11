@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trauma and healing
+title: Trauma and Healing
 parent: Rules
 nav_order: 4
 ---
