@@ -7,12 +7,10 @@ nav_order: 4
 
 **Logistics Moves:**
 
-- **_[Command](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Command)_**
-- **_[Contact Network](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Contact)_**
-- **_[Fork Synergy](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Fork)_**
-- **_[Mercenaries](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Mercenaries)_**
-- **_[Tactical Acumen](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Tactical)_**
-- **_[Wealth](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Wealth)_**
+- **_[Contact Network](#contact-network)_**
+- **_[Fork Synergy](#fork-synergy)_**
+- **_[Tactical Acumen](#tactical-acumen)_**
+- **_[Wealth](#wealth)_**
 
 **_Contact Network_**  
 You have developed an extensive network of allies and contacts who can provide help or resources in a pinch. When you take this move, choose one:
@@ -32,15 +30,6 @@ On a miss, your network needs a favor in return. Lose access to this move until 
 
 **_Fork Synergy_**  
 You have embraced the stigmatized practice of forking your ego, and regularly have multiple copes of yourself active at any given time. You can accomplish so much more this way, and so long as you regularly integrate them back into yourself, side-effects are kept at a minimum. You never roll the **_trauma move_** to reintegrate a fork (unless a truly excessive period of time has passed). At the end of every game session, mark experience.
-
-**_Mercenaries_**  
-You have a mercenary force who obeys you only as long as you can pay. When you **_try to impose your will on your gang_**, roll+Resources. On a 10+, choose 3. On a 7-9, choose 2. On a miss, choose 1 anyway:
-
-- They do what you want.
-- They don’t overcharge you, and you don’t lose 1-Resources permanently.
-- Their Vulnerability doesn’t activate, or you don’t have to hurt one of them.
-
-If you don’t already have a gang, this move gives you one (see [NPCs, Gangs, and Vehicles](https://htmltomd.com/wikis/npcs-gangs-and-vehicles)). If you already have a gang, select one more option for them.
 
 **_Tactical Acumen_**  
 You look at every situation with a tactical eye, and are commonly prepared for most surprises. When you **_declare retroactively that you’ve already set something up_**, roll+Cognition. On a 10+ it’s just as you say. On a 7-9, you set it up but here at the crucial moment the GM can introduce some hitch or delay. On a miss, you set it up, but since then things you don’t know about have seriously changed.
