@@ -93,4 +93,6 @@ To use it to revive someone who’s on death’s door (`Dead`, but not beyond, a
 - they come back with -1 Reflex
 - they come back with -1 Willpower
 
-#### Nanobandages: These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, heal two checks off the **_damage track_**. On a 7-9, heal one check. On a failure, the bandage is wasted and you may have made things worse.
+#### Nanobandages:
+
+These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, heal two checks off the **_damage track_**. On a 7-9, heal one check. On a failure, the bandage is wasted and you may have made things worse.
