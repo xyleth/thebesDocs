@@ -2,7 +2,7 @@
 layout: default
 title: GM Moves
 parent: Rules
-nav_order: 4
+nav_order: 6
 ---
 
 # GM Moves
@@ -15,25 +15,25 @@ The GM’s moves are:
 
 _Soft Moves:_
 
-*   Announce off-screen badness.
-*   Announce future badness.
-*   Make them buy.
-*   Tell them the possible consequences and ask.
-*   Offer an opportunity, with or without a cost.
-*   Put someone in a spot.
-*   Trade harm for harm.
+- Announce off-screen badness.
+- Announce future badness.
+- Make them buy.
+- Tell them the possible consequences and ask.
+- Offer an opportunity, with or without a cost.
+- Put someone in a spot.
+- Trade harm for harm.
 
 _Hard Moves:_
 
-*   Separate them.
-*   Capture someone.
-*   Inflict harm.
-*   Take away their stuff.
-*   Activate their stuff’s downside.
-*   Turn their move back on them.
-*   Make a threat move.
+- Separate them.
+- Capture someone.
+- Inflict harm.
+- Take away their stuff.
+- Activate their stuff’s downside.
+- Turn their move back on them.
+- Make a threat move.
 
 _Battle Moves:_
 
-*   Inflict incidental fire
-*   Inflict concentrated fire
+- [Inflict incidental fire](/content/rules/combat.html#incidental-fire)
+- [Inflict concentrated fire](/content/rules/combat.html#concentrated-fire)

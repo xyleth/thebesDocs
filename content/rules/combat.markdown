@@ -2,7 +2,7 @@
 layout: default
 title: Combat
 parent: Rules
-nav_order: 5
+nav_order: 2
 ---
 
 # Combat
@@ -31,7 +31,11 @@ Note that each round may involve one or more moves from each player, and players
 
 The GM has two special moves that he can use to simulate the escalating tension and danger of a battle. The moves are **_inflict incidental fire_** and **_inflict concentrated fire_**. The GM may use these moves at the end of any round of battle, against any PC, as appropriate according to the narrative. In general, the GM should **_inflict incidental fire_** in the first couple of rounds, and **_inflict concentrated fire_** in later rounds, but if a PC does something particularly brave or foolhardy, the GM is encouraged to unleash whatever incoming harm the PC deserves.
 
+#### Incidental Fire
+
 When the GM **_inflicts incidental fire_**, the PC rolls the **_damage move_** or **_trauma move_** (as appropriate to the nature of the fire) and is `+boosted` on the roll.
+
+#### Concentrated Fire
 
 When the GM **_inflicts concentrated fire_**, the PC rolls the **_damage move_** or **_trauma move_** without modifier, as normal.
 
