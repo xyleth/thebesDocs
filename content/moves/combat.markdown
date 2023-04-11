@@ -29,7 +29,7 @@ When you are caring for people, not fighting, you get +1 armor. You have a suppl
 
 ## Berserker:
 
-When you **_charge into battle_** with no regard for your own safety or survival, gain +1 armor. When you are doing so while leading a gang, they all get +1 armor.
+When you **_charge into battle_** with no regard for your own safety or survival, gain +1 armor.
 
 ## Disciplined Engagement
 
@@ -86,7 +86,7 @@ When you do damage, do +1 damage.
 
 ## Not to be Fucked With:
 
-In battle, you count as a small gang with damage and armor appropriate to your equipment and moves.
+In battle, you gain +1 damage and +1 armor (subject to normal limits).
 
 ## Packing All Kinds of Heat:
 
@@ -96,7 +96,3 @@ When you **_go into battle_**, choose one of the following:
 - You’ve loaded armor-piercing ammunition. Add `+ap-1` to your ranged weapon attacks.
 - You’ve loaded plastic ammunition. Add `+shock` to your ranged weapon attacks.
 - You’ve loaded tracking ammunition. Add `+bug` to your ranged weapon attacks
-
-## Squad Leader
-
-When you lead a gang into battle, it counts as one size larger than it is.

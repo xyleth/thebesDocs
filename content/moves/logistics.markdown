@@ -14,19 +14,6 @@ nav_order: 4
 - **_[Tactical Acumen](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Tactical)_**
 - **_[Wealth](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Wealth)_**
 
-**_Command_**  
-When you **_lead a gang into battle_**, roll+Savvy. On a 10+, hold 3. On a 7-9, hold 1. Over the course of the fight, spend your hold 1 for 1 to make your gang:
-
-- Make a hard advance
-- Stand strong against a hard advance
-- Make an organized retreat
-- Show mercy to their defeated enemies
-- Fight and die to the last
-
-On a miss, your orders get misunderstood or garbled or otherwise confused.
-
-If you don’t already have a gang, this move GIVES you one (see [NPCs, Gangs, and Vehicles](https://htmltomd.com/wikis/npcs-gangs-and-vehicles)). If you do already have a gang, you can choose a new option for your gang instead.
-
 **_Contact Network_**  
 You have developed an extensive network of allies and contacts who can provide help or resources in a pinch. When you take this move, choose one:
 

@@ -18,7 +18,7 @@ See [A note on ranges](/content/rules/combat.html#a-note-on-ranges) for details.
 ## Weapon Tags:
 
 - `+ap` – Armor Piercing. Usually comes with a rating indicating how many points of **_armor_** the attack ignores (NPCs) or the penalty to your **_damage move_** (PCs).
-- `+area` – A weapon with this tag can hit multiple targets in an area, and ignores gang scaling.
+- `+area` – A weapon with this tag can hit multiple targets in an area.
 - `+autofire` – A weapon with this tag can make a single attack with the `+area` tag, but then gains the `+reload` tag.
 - `+bio` – This weapon can only hurt biological targets
 - `+bug` – This ammunition contains a tracking bug that monitors the condition and broadcasts the location of whatever its lodged in.
