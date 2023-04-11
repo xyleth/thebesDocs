@@ -39,7 +39,7 @@ nav_order: 3
 - `+hardened skeleton` – You have one additional `+scuffed` level on the **_damage track_**.
 - `+hibernation` – You can enter a hibernative state where you consume very little oxygen and other resources.
 - `+medichines` – You have elaborate, custom built medical technology in your body. See the [Damage and Healing](/content/rules/damageHealing.html) rules for details.
-- `+muscle augmentation` – You are `+boosted` on non-combat feats of strength, including uses of Somatics to **_take a chance_**.
+- `+muscle augmentation` – You are `+boosted` on non-combat feats of strength, including uses of Hard to **_take a chance_**.
 - `+oxygen reserves` – You have an internal supply of oxygen that can keep you alive longer in airless settings.
 - `+poisonous` – You have a specialized gland that can secrete a poison. You are immune to your own poison. Does not produce `+nanotoxins`
 - `+reflex booster` – Once per battle, you are `+boosted` on any **_Reflex_** stat roll.
