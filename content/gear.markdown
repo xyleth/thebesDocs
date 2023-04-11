@@ -171,8 +171,8 @@ On a miss, they mark one more off the [damage track](#damage-track)
 To use it to revive someone who’s on death’s door (`Dead`, but not beyond, and not for long - they died in the current scene): spend 2-stock. Choose 1 of the above, and they come back, but you get to choose how they come back:
 
 - they come back in your deep, deep debt
-- they come back with -1 Somatics
-- they come back with -1 Coordination
+- they come back with -1 Hard
+- they come back with -1 Reflex
 - they come back with -1 Willpower
 
 **_Nanobandages:_** These useful devices are one-use emergency hives of nanomachines that can rapidly repair damaged tissue. **_When applying a nanobandage in battle_** roll+Cognition. On a 10+, heal two checks off the **_damage track_**. On a 7-9, heal one check. On a failure, the bandage is wasted and you may have made things worse.

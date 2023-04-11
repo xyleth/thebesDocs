@@ -42,7 +42,7 @@ nav_order: 3
 - `+muscle augmentation` – You are `+boosted` on non-combat feats of strength, including uses of Somatics to **_take a chance_**.
 - `+oxygen reserves` – You have an internal supply of oxygen that can keep you alive longer in airless settings.
 - `+poisonous` – You have a specialized gland that can secrete a poison. You are immune to your own poison. Does not produce `+nanotoxins`
-- `+reflex booster` – Once per battle, you are `+boosted` on any **_Coordination_** stat roll.
+- `+reflex booster` – Once per battle, you are `+boosted` on any **_Reflex_** stat roll.
 - `+scent alteration` – You can control your scent.
 - `+sex switch` – You can change your physical gender to male, female, hermaphrodite, neuter, or other combinations. The switch takes up to a week to complete.
 - `+toxin filters` – Your body filters out most poisons.
@@ -110,7 +110,7 @@ nav_order: 3
 - `+multi-tasking` – Expensive cortical stack upgrade: constantly creates short-term forks for extra mental actions. Can roll multiple Cognition or Intuition-related moves at once. Not compatible with `+mental speed`.
 - `+nanotat ID flux` – You have an extremely expensive system that can forge nanotat IDs, fooling most ID sensors.
 - `+nanotoxins` – You have an implanted nanobot hive that creates toxins that can affect both biomorphs and synthmorphs. You are immune to your own nanotoxins. Highly illegal in most habitats.
-- `+neurachem` – Once per battle, you are `+boosted` on any **_Somatics_** or **_Coordination_** stat roll.
+- `+neurachem` – Once per battle, you are `+boosted` on any **_Hard_** or **_Reflex_** stat roll.
 - `+prehensile feet` – You can grip and hold things with your feet just as well as your hands.
 - `+radiation sense` – You can sense the presence and approximate source of dangerous radiation.
 - `+skinflex` – You can restructure your facial features and musculature and alter skin tone and hair color in about 20 minutes.
