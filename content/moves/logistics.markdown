@@ -12,7 +12,8 @@ nav_order: 4
 - **_[Tactical Acumen](#tactical-acumen)_**
 - **_[Wealth](#wealth)_**
 
-**_Contact Network_**  
+## Contact Network
+
 You have developed an extensive network of allies and contacts who can provide help or resources in a pinch. When you take this move, choose one:
 
 - Your contacts respect your reputation. Roll+Rep when contacting them.
@@ -28,13 +29,16 @@ At the beginning of the session, or as soon thereafter as you are in a position 
 
 On a miss, your network needs a favor in return. Lose access to this move until you satisfy them.
 
-**_Fork Synergy_**  
+## Fork Synergy
+
 You have embraced the stigmatized practice of forking your ego, and regularly have multiple copes of yourself active at any given time. You can accomplish so much more this way, and so long as you regularly integrate them back into yourself, side-effects are kept at a minimum. You never roll the **_trauma move_** to reintegrate a fork (unless a truly excessive period of time has passed). At the end of every game session, mark experience.
 
-**_Tactical Acumen_**  
+## Tactical Acumen
+
 You look at every situation with a tactical eye, and are commonly prepared for most surprises. When you **_declare retroactively that you’ve already set something up_**, roll+Cognition. On a 10+ it’s just as you say. On a 7-9, you set it up but here at the crucial moment the GM can introduce some hitch or delay. On a miss, you set it up, but since then things you don’t know about have seriously changed.
 
-**_Wealth_**  
+## Wealth
+
 You have developed extensive investments and agents whose job it is to keep you in credits. At the beginning of the session, roll+Cognition or +Savvy (your choice) to see how your fortune is faring. On a 10+, you have surplus on hand for your needs. On a 7-9, you have surplus, but choose one want. On a miss, your investments are in want. The GM will choose one or more. The precise values of your surplus and want are determined by creating your investments below.
 
 Choose 2 Benefits:
