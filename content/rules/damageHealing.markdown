@@ -44,11 +44,7 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 ## Healing
 
-<<<<<<< HEAD
-`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags.`medichenes` allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichenes to heal in combat.
-=======
 `scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichines](medichines) allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichines to heal in combat.
->>>>>>> c41e344c684655a91812294b7bd781981b1b7d5f
 
 The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichines will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
 
@@ -91,10 +87,10 @@ These useful devices are one-use emergency hives of nanomachines that can rapidl
 You have elaborate, custom built medical technology in your body.
 
 - When you **go into battle** you heal 1 `scuffed` box per round
-- Heal the `scuffed` box in between scenes, leaving 2 `scuffed` boxes at the start of the next scene
+- Heal the `Stunned` box in between scenes, leaving 2 `scuffed` boxes at the start of the next scene
 - Automatically enter a healing coma upon becoming `wounded`
 - You are `boosted` on all rolls made to heal you with a medical supplies kit
 
 A character may choose to attempt to avoid automatically being placed into a coma when becoming `wounded`. Roll+Willpower. On a 10+ you are `wounded` but may continue to act normally. On a 7-9 the same, but the strain causes you to mark 1 additional wound at the end of the scene unless you can access medical care. On a Miss you fall into a coma.
 
-A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They heal the `wounded` box and are meerly `stunned`. This will not be healed by their medichines until the following scene ends.
+A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They heal the `wounded` box and are merely `stunned`. This will not be healed by their medichines until the following scene ends.
