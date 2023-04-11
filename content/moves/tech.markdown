@@ -10,16 +10,19 @@ has_children: true
 
 - **_[All My Vices Are Devices](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Vices)_**
 - **_[Cyberbrain Hacking](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Cyberbrain)_**
-- **_[Hacker](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Hacker)_**
-- **_[Mechanic](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Mechanic)_**
-- **_[Medical Miracle Worker](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Medical)_**
-- **_[Nanovirus Fabricator](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Nanovirus)_**
-- **_[Psychosurgery](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Psychosurgery)_**
+- **_[Hacker](#hacker)_**
+- **_[Mechanic](#mechanic)_**
+- **_[Medical Miracle Worker](#medical-miracle-worker)_**
+- **_[Nanovirus Fabricator](#nanovirus-fabricator)_**
+- **_[Psychosurgery](#psychosurgery)_**
+- **_[Glitch in the System](#glitch-in-the-system)_**
 
-**_All My Vices Are Devices_**  
+## All My Vices Are Devices
+
 At the beginning of game, roll+Resources. On a 10+, hold 3. On a 7-9, hold 1. You can spend your hold 1 for 1, at any time, to have a piece of tech useful to whatever situation you find yourself in – either on-hand, or somewhere you can get at it without too much trouble. This won’t get you weapons, but it might get you just about anything else man-portable and high-tech.
 
-**_Cyberbrain Hacking_**  
+## Cyberbrain Hacking
+
 When you hack a `+cyberbrain` or a `+virtual` person in a charged situation roll+Cognition. On a 10+, hold 3. On a 7-9, hold 1. You can spend your hold 1 for 1 at any time to…
 
 - Make the target’s attack miss its mark – it strikes someone other than the intended target, or a wall, or the ground.
@@ -30,7 +33,8 @@ When you hack a `+cyberbrain` or a `+virtual` person in a charged situation roll
 
 You cannot use this move if you have unspent hold from this move.
 
-**_Hacker_**  
+## Hacker
+
 When you seek to subvert a non-informorph computer system or electronic security measures, roll+Intuition/Cognition. On a 10+, choose 3. On a 7-9, choose 2. On a miss, choose 1 anyway.
 
 - You get into the system or past the security
@@ -38,7 +42,8 @@ When you seek to subvert a non-informorph computer system or electronic security
 - You leave no trace behind
 - You don’t permanently damage something important
 
-**_Mechanic_**  
+## Mechanic
+
 You are skilled with your hands and can fix, repair, or build pretty much anything. You have a dedicated workspace for larger projects, and an ability to repair things on the fly.
 
 Workspace: Choose 3: a garage or cargo hold, a darkroom, skilled labor, a collection of raw materials, a cargo vehicle, high-tech gadgets, advanced tools, transmitters & receivers, an alien relic, high security.
@@ -59,7 +64,8 @@ The GM might connect them all with “and,” or might throw in a merciful “or
 
 You can repair synthetic morphs with this move.
 
-**_Medical Miracle-worker_**  
+## Medical Miracle-worker
+
 You are a master of all things biological, medical, and cybernetic. You may work on people or other biological specimens as if you were a **_Mechanic_**.
 
 Laboratory: Choose 3: a med-bay or cargo hold, a surgery, skilled labor, growth vats of raw materials, an ambulance vehicle, high-tech gadgets, advanced life-support systems, top-notch cybernetic implant supply, an alien relic, high security.
@@ -68,10 +74,12 @@ You may **_go into your laboratory_** using the same rules as a **_mechanic_** g
 
 You can use this move to heal biomorphs.
 
-**_Nanovirus Fabricator_**  
+## Nanovirus Fabricator
+
 Name somebody who might conceivably eat, drink, breathe or otherwise ingest something you’ve touched and roll+Cognition. On a 10+, they do, and become `Dead` in some nasty way sometime during the next 24 hours. On a 7-9, they’re merely badly injured or out of action. On a miss, some several people of the GM’s choice, maybe including your guy maybe not, get it.
 
-**Psychosurgery:**  
+## Psychosurgery:
+
 When you **_engage in psychosurgery_** upon a neural backup, fork, AGI, or emulated ego in your carefully controlled simulspace, roll+Cognition. On a 10+, choose 2 (the same choice can be taken twice). On a 7-9, choose 1:
 
 - Fork Integration: re-integrate a fork successfully
@@ -84,5 +92,6 @@ When you **_engage in psychosurgery_** upon a neural backup, fork, AGI, or emula
 
 The subject then rolls the **_trauma move_**. In addition to the normal effects, on a 10+, the subject may choose whether to keep the changes or reject them. On a 7-9, the changes take effect, but the subject may choose one change that is only temporary. It will fade in a few weeks. On a failure, the changes take effect permanently, and the subject marks one check on the **_sanity track_** as normal.
 
-**_Glitch in the System_**  
+## Glitch in the System
+
 You can see the tiny flaws in any virtual system. You always know if you have the `+virtual` tag, and you always know if you’re in a simulspace or some other virtual reality. While `+virtual` you can **_glitch the system_**. Roll+Willpower. On a hit, you can change one aspect of the reality around you. On a 10+, you gain partial administrator access permitting follow-up, minor changes.
