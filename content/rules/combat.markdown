@@ -27,7 +27,13 @@ If the violence is larger in scale, involving multiple participants, or more pre
 
 To be clear there is no initiative, no order tracker or firm order in which each player goes. We are still narrating the story, only now we are being a little more focused. Here each scene spans only seconds or minutes of in-world time and typically involves characters executing a specific objective in the fight, along with corresponding reactions from the enemy. Remember you are not rolling to shoot someone once - you are instead rolling to resolve a short narrative segment where you run fowards, vault over the stack of crates between you and the enemy exsurgent and empty your clip into the back of their head at point-blank range!
 
-See also the [notes on battle](/content/rules/coreConcepts.html#battle) in Core Concepts.
+Note that each round may involve one or more moves from each player, and players may have to roll the damage or trauma move more than once if the GM has spent hold on them.
+
+The GM has two special moves that he can use to simulate the escalating tension and danger of a battle. The moves are **_inflict incidental fire_** and **_inflict concentrated fire_**. The GM may use these moves at the end of any round of battle, against any PC, as appropriate according to the narrative. In general, the GM should **_inflict incidental fire_** in the first couple of rounds, and **_inflict concentrated fire_** in later rounds, but if a PC does something particularly brave or foolhardy, the GM is encouraged to unleash whatever incoming harm the PC deserves.
+
+When the GM **_inflicts incidental fire_**, the PC rolls the **_damage move_** or **_trauma move_** (as appropriate to the nature of the fire) and is `+boosted` on the roll.
+
+When the GM **_inflicts concentrated fire_**, the PC rolls the **_damage move_** or **_trauma move_** without modifier, as normal.
 
 ### A note on ranges
 

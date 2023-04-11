@@ -84,18 +84,6 @@ When you take physical damage, you will roll the **_damage move_**. When you suf
 
 Damage can be [healed](/content/rules/damageHealing.html) with medical attention. Sanity can never be healed except through [Psychosurgery](/content/moves/tech#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
 
-## Battle
-
-When you engage in a full-on battle (not just some random violence) the narrative becomes more formal. Each “round” of battle represents a discrete narrative segment. In each round, every player can describe a single narrative action that their character takes. This action can involve the use of one or more moves. There are special [Battle Moves](/content/moves/battlemoves) that become available only in Battle. Also, a number of other moves specify that they are rolled when you **_go into battle_**. These moves are rolled at the beginning of the Battle.
-
-The GM has two special moves that he can use to simulate the escalating tension and danger of a battle. The moves are **_inflict incidental fire_** and **_inflict concentrated fire_**. The GM may use these moves at the end of any round of battle, against any PC, as appropriate according to the narrative. In general, the GM should **_inflict incidental fire_** in the first couple of rounds, and **_inflict concentrated fire_** in later rounds, but if a PC does something particularly brave or foolhardy, the GM is encouraged to unleash whatever incoming harm the PC deserves.
-
-When the GM **_inflicts incidental fire_**, the PC rolls the **_damage move_** or **_trauma move_** (as appropriate to the nature of the fire) and is `+boosted` on the roll.
-
-When the GM **_inflicts concentrated fire_**, the PC rolls the **_damage move_** or **_trauma move_** without modifier, as normal.
-
-Note: If the GM has also spent **_hold_**, or or the PC took damage from some other source that round, it is entirely possible that a PC may have to roll a damage move more than once in a round.
-
 ## Data Points
 
 Data Points are small but critically useful bits of information about a particular subject, which can be leveraged to tip the scales during a tense moment. Each Data Point concerns a specific topic or subject, and can be spent to grant `+1 forward` to any roll that directly involves or leverages the information in that Data Point. Only one Data Point can be spent per roll, no matter how many would apply.
