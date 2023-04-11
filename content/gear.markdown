@@ -63,6 +63,8 @@ Armour comes in three categories:
 - Combat armour (2-armour) tends to be bulky and obvious, taking forms like thick crab-like carapace, sealed suits of armour, or thick armour plating bolted to your chassis.
 - Heavy armour (3-armour) is rare, found usually on dedicated combat synthmorphs and machines of war.
 
+Armour of rating 2 or above must be procured with a [Procure Something](/content/moves/basicmoves.html#procure-something) move.
+
 ### Implants and Upgrades
 
 The galaxy is full of hi-tech nanoware implants for biomorphs or software or hardware upgrades for synthmorphs. Rather than create an exhaustive list, simply check the list of **_[morph tags](/content/tags.html)_**. Each of them represents some form of upgrade that you can purchase or procure. Some tags are only applicable to biomorphs, others are only applicable to synthmorphs, and yet others have different tech that applies the same benefit to both types.
