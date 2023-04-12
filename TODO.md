@@ -10,4 +10,4 @@ List of things to do
 - [] Gear page in charcater creation needs an overview as well as a link
 - [] Need to do something with the `Develop Connections` page in Character Creation
 - [x] Make medichines a move
-- [] Update morph list to reflect EP2 and Patreon MRG2 content
+- [x] Update morph list to reflect EP2 and Patreon MRG2 content
