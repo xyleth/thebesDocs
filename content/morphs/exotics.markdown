@@ -8,4 +8,4 @@ nav_order: 6
 
 # Exotic Morphs
 
-These morphs are not available from [Backgrounds](/content/backgrounds), but may be chosen as [Gear](/content/gear) at character creation.
+These morphs are not available from [Backgrounds](/content/backgrounds) and may only be acquired via the [Procure Something](/content/moves/basicmoves.html#procure-something) Move.
