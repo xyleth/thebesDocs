@@ -92,6 +92,6 @@ At the end of a scene in which you have either the `stunned` or `wounded` damage
 
 - On a 10+ you heal one point from your damage track.
 - On a 7-9 the medichines staunch the wound but the healing is incomplete or sub-optimal in some way. Heal one point from your damage track, but you are `glitched` ongoing until you can resolve the situation[^1].
-- On a 6- the damage is too great for the medichines to heal. You heal no damage and are `glitched` ongoing due to the drain of your medichines struggles to heal you.
+- On a 6- the damage is too great for the medichines to heal. You heal no damage and are `glitched` ongoing due to the drain of your medichines struggles to heal you. Outside medical attention or a significant period of rest is required to resolve this situation.
 
 [^1]: Taking the **_Close Wounds_** move at the end of the following scene counts for this purpose
