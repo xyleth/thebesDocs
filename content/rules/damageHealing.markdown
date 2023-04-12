@@ -84,7 +84,7 @@ These useful devices are one-use emergency hives of nanomachines that can rapidl
 
 ### Medichines
 
-You have elaborate, custom built medical technology in your body. You gain the **_close wounds_** move as below and automatically stabilise if `stunned` or `wounded` .
+You have elaborate, custom built medical technology in your body. You gain the **_Close Wounds_** move as below and automatically stabilise if `stunned` or `wounded` .
 
 If at any point you would become `dead` you instead enter an emergency protective coma. If you take any additional damage, you are `dead`. You can only be revived from this coma by significant outside medical intervention, a nanonbandage ain't gonna cut it. You cannot make the **_Close Wounds_** move while in this coma.
 
