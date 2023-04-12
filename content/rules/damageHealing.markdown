@@ -44,11 +44,11 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 ## Healing
 
-`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags. [Medichines](medichines) allow automatic healing of wounds in combat, healing one `scuffed` box per round of battle. Wounds more serious than `scuffed` are too extensive for medichines to heal in combat.
+`scuffed` checks on the damage track will heal automatically with time due to standard transhuman physiology and biomods. It may be considered that these wounds will heal in-between scenes. Wounds do not heal if you have the `stunned` or `wounded` tags.
 
-The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**. Medichines will heal the `stunned` box in-between scenes, leaving the player with 2 `scuffed` boxes checked for the start of the next scene.
+The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**.
 
-Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker](/content/moves/tech#Medical) move. Stabilising a `wounded` character may be attempted with **medical supplies**. Characters with medichines will automatically be placed into a recuperative coma upon gaining the `wounded` tag. See [medichines](#medichines) for more details.
+Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker](/content/moves/tech#Medical) move. Stabilising a `wounded` character may be attempted with **medical supplies**.
 
 ### Medical supplies
 
@@ -84,13 +84,14 @@ These useful devices are one-use emergency hives of nanomachines that can rapidl
 
 ### Medichines
 
-You have elaborate, custom built medical technology in your body.
+You have elaborate, custom built medical technology in your body. You gain the `close wounds` move as below and automatically stabilise if `stunned` or `wounded` :
 
-- When you **go into battle** you heal 1 `scuffed` box per round
-- Heal the `Stunned` box in between scenes, leaving 2 `scuffed` boxes at the start of the next scene
-- Automatically enter a healing coma upon becoming `wounded`
-- You are `boosted` on all rolls made to heal you with a medical supplies kit
+#### Close Wounds
 
-A character may choose to attempt to avoid automatically being placed into a coma when becoming `wounded`. Roll+Willpower. On a 10+ you are `wounded` but may continue to act normally. On a 7-9 the same, but the strain causes you to mark 1 additional wound at the end of the scene unless you can access medical care. On a Miss you fall into a coma.
+At the end of a scene in which you have either the `stunned` or `wounded` damage track boxes ticked, roll. If you have taken no damage in the scene you are `boosted` for this roll.
 
-A character placed into a coma by their medichines awakens once the battle or scene in which they became `wounded` ends. They heal the `wounded` box and are merely `stunned`. This will not be healed by their medichines until the following scene ends.
+- On a 10+ you heal one point from your damage track.
+- On a 7-9 the medichines staunch the wound but the healing is incomplete or sub-optimal in some way. Heal one point from your damage track, but you are `glitched` ongoing until you can resolve the situation[^1].
+- On a 6- the damage is too great for the medichines to heal. You heal no damage and are `glitched` ongoing due to the drain of your medichines struggles to heal you.
+
+[^1]: Taking the **_Close Wounds_** move at the end of the following scene counts for this purpose
