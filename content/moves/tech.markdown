@@ -98,10 +98,6 @@ The subject then rolls the **_trauma move_**. In addition to the normal effects,
 
 You can see the tiny flaws in any virtual system. You always know if you have the `+virtual` tag, and you always know if you’re in a simulspace or some other virtual reality. While `+virtual` you can **_glitch the system_**. Roll+Willpower. On a hit, you can change one aspect of the reality around you. On a 10+, you gain partial administrator access permitting follow-up, minor changes.
 
-## Drone rig
-
-Bots under your control are no longer `glitched` on their moves following your commands.
-
 ## Master Puppeteer
 
 Bots you remotely control may make moves from your move list, using your stats. They are not `glitched` when under your direct control.

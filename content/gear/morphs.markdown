@@ -16,9 +16,10 @@ nav_order: 3
 - `+mental speed (intuition)` – You are `+boosted` on any roll using Intuition. Not compatible with other variants of mental speed.
 - `+mental speed (savvy)` – You are `+boosted` on any roll using Savvy. Not compatible with other variants of mental speed.
 - `+mnemonics`(Min) – You have enhanced memory with better, but not perfect, recall.
+- `+memory lock` (Min) Blocks memory retention/recording when active
 - `+modified behavior` – You have been altered, either through psychosurgery or a morph implant, limiting your behavioral options
-- `+oracles` – You have a memory buffer that stores all sensory input, even those you may not initially notice. You cannot **_miss noticing something important_**.
-- `+skillware` – Artificial neural net that can be programmed with one or two skills the ego may not possess.
+- `+oracles` (Mod)– You have a memory buffer that stores all sensory input, even those you may not initially notice. You cannot **_miss noticing something important_**.
+- `+skillware`(Maj) – Artificial neural net that can be programmed with one or two skills the ego may not possess.
 - `+stigmatized` – You looked down on by certain groups or factions. During social interactions with them you are `+glitched`.
 
 **_Biomorph-only Tags:_**
@@ -49,7 +50,7 @@ nav_order: 3
 
 **_Synthmorph-only Tags:_**
 
-- `+360 degree vision` – You can see all around yourself.
+- `+360 degree vision` (Min) – You can see all around yourself.
 - `+armor plating` – Upgrades an intrinsic armor rating of +1 to +2
 - `+cyberbrain` (Maj) – Your [Ego](/content/charactercreation/ego) is susceptible to hacking
 - `+extreme heat shielding` – You can survive in extreme heat, but not in temperatures below 250C
@@ -61,13 +62,13 @@ nav_order: 3
 - `+internal rocket` – You have a rocket propulsion system in your body.
 - `+invisibility` – Your morph is built with metamaterials with a negative refractive index.
 - `+lemon` – Your body has a tendency to break down at inconvenient moments.
-- `+lidar` – You have a laser system that helps you judge range and speed and can image targets.
+- `+lidar` (Min)– You have a laser system that helps you judge range and speed and can image targets.
 - `+magnetic system` – You can cling to and move along any ferrous material.
 - `+modular design` – Your morph is designed to meld with others of its type to create larger structures for varied purposes.
-- `+nanoscopic vision` – Can focus your vision to the nanoscopic level.
+- `+nanoscopic vision` (Mod)– Can focus your vision to the nanoscopic level.
 - `+pneumatic limbs` – Your limbs can generate up to 7,000 newtons of force making for incredible jumps or strong punches.
 - `+puppet sock` (Mod) – Your morph can be remote-controlled or teleoperated (Synthmorphs AND Pods)
-- `+radar` – You have a radar system that helps you judge size, composition, and motion
+- `+radar` – (Min) You have a radar system that helps you judge size, composition, and motion
 - `+radar invisibility` – You are invisible to radar
 - `+reduced signature` – Your morph has an unusually small radar cross-section.
 - `+shape adjusting` – Your morph is made of smart materials that can alter shape for varied tasks.
@@ -79,26 +80,30 @@ nav_order: 3
 **_Bio and Synthmorph Tags:_**
 
 - `+access jack`(Min) – You have external ports that permit you to plug into computer systems or other people for direct communication.
-- `+anti-glare` – Your eyes or optical sensors resist bright flashes and glare.
+- `+anti-glare` (Min)– Your eyes or optical sensors resist bright flashes and glare.
 - `+aquatic` – You cannot operate outside of a liquid environment
 - `+chameleon skin` – You are `+boosted` on any move to conceal yourself from sight.
-- `+chemical sniffer` – You can analyze chemicals in the air by smell
+- `+chemical sniffer` (Mod) – You can analyze chemicals in the air by smell
 - `+coronal adaptation` – You are able to survive the incredible heat of the sun’s corona, but few other places.
 - `+cortical stack`(Min) – Without this tag, there is no coming back from `Dead`. Hard to destroy unless special care is taken.
 - `+cyberclaws` – You have built in melee weapons that may or may not be concealable.
-- `+dead switch` – Cortical stack accessory: Upon death of the morph, cortical stack is fried and unrecoverable.
-- `+direction sense` – You have an instinctual knowledge of direction.
+- `+dead switch` (Min)– Cortical stack accessory: Upon death of the morph, cortical stack is fried and unrecoverable.
+- `+direction sense` (Min) – You have an instinctual knowledge of direction.
+- `Drone Rig` (Mod) - Bots are not `glitched` when following your orders, but are still limited to their moves and use their stats.
 - `+echolocation` – You can navigate by bouncing soundwaves off your environment
-- `+ego sharing` – Your body is built to house multiple egos. Each ego can act separately provided the morph has enough arms / weapons for two or more. For biomorphs, often gained through a ghostrider module.
-- `+electrical sense` – You can sense nearby electric currents
-- `+emergency farcaster` – Extremely expensive cortical stack upgrade, constantly sends backup data to secure storage provided you’re within radio range. Also includes one-use neutrino broadcaster. Upon use, sends backup anywhere, through any jamming, but completely destroys the morph and all implants/upgrades.
-- `+enhanced hearing` – You are `+boosted` on any moves involving hearing.
-- `+enhanced smell` – You are `+boosted` on any moves involving smell.
-- `+enhanced touch` – You are `+boosted` on any moves involving the sense of touch.
-- `+enhanced vision` – You are `+boosted` on any moves involving eyesight.
+- `+ego sharing` (Maj) – Your body is built to house multiple egos. Each ego can act separately provided the morph has enough arms / weapons for two or more. For biomorphs, often gained through a ghostrider module.
+- `+electrical sense` (Min)– You can sense nearby electric currents
+- `+emergency farcaster` (Maj R) – Extremely expensive cortical stack upgrade, constantly sends backup data to secure storage provided you’re within radio range. Also includes one-use neutrino broadcaster. Upon use, sends backup anywhere, through any jamming, but completely destroys the morph and all implants/upgrades.
+- `+enhanced hearing` (Min) – You are `+boosted` on any moves involving hearing.
+- `+enhanced smell` –(Min) You are `+boosted` on any moves involving smell.
+- `+enhanced touch` (Min)– You are `+boosted` on any moves involving the sense of touch.
+- `+enhanced vision` (Min) – You are `+boosted` on any moves involving eyesight.
+- `+polarisation vision` (Min) See Polarised light
+- `+Radiation sense` (Min) Detect radiation sources
+- `+sonar` (Min) Short range sonar
 - `+extra limbs` – You can carry and use more things at once
 - `+flight` – You can fly
-- `+ghostrider module` – You can carry around a second Ego inside your morph.
+- `+ghostrider module`(Min) – You can carry around a second Ego inside your morph.
 - `+grip pads` – Gecko-feet. You can climb any object except those made specifically to counter you.
 - `+hidden compartment` – You have a secret compartment in your body
 - `+high-g adaptation` – You are adapted to function in high-g environments.
@@ -107,16 +112,17 @@ nav_order: 3
 - `+impractical` – Your body was designed for aesthetics, not practicality.
 - `+low-pressure tolerance` – You can survive in low-pressure environments where others could not
 - `+mesh inserts` (Min)– Permits instant, neural access to the mesh, permits the **_access the mesh_** basic move.
-- `+multi-tasking` – Expensive cortical stack upgrade: constantly creates short-term forks for extra mental actions. Can roll multiple Cognition or Intuition-related moves at once. Not compatible with `+mental speed`.
+- `+multi-tasking` (Mod)– Expensive cortical stack upgrade: constantly creates short-term forks for extra mental actions. Can roll multiple Cognition or Intuition-related moves at once. Not compatible with `+mental speed`.
 - `+nanotat ID flux` – You have an extremely expensive system that can forge nanotat IDs, fooling most ID sensors.
 - `+nanotoxins` – You have an implanted nanobot hive that creates toxins that can affect both biomorphs and synthmorphs. You are immune to your own nanotoxins. Highly illegal in most habitats.
 - `+neurachem` – Once per battle, you are `+boosted` on any **_Hard_** or **_Reflex_** stat roll.
 - `+prehensile feet` – You can grip and hold things with your feet just as well as your hands.
 - `+radiation sense` – You can sense the presence and approximate source of dangerous radiation.
+- `+Remote backup link` (Maj) Quantum farcaster for remote backup every 48 hrs
 - `+skinflex` – You can restructure your facial features and musculature and alter skin tone and hair color in about 20 minutes.
 - `+skinlink` – Can interface with electronics and mesh devices simply by touching them. This is a “wired” link and not subject to eavesdropping. Two people with `+skinlink` can communicate by touch.
 - `+swim bladder` – You have an internal bladder used for regulating depth in fluid or gas
-- `+t-ray emitter` – you can see through cloth, plastic, wood, masonry, composites, and ceramics.
+- `+t-ray emitter`(Min) – you can see through cloth, plastic, wood, masonry, composites, and ceramics. Requires `enhanced vision`
 - `+temperature tolerance` – You can exist comfortably in extreme hot or cold environments. Often this tag will specify the environment you’re designed to tolerate.
 - `+vacuum sealing` – Your morph is sealed against vacuum
 
