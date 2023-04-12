@@ -84,23 +84,14 @@ These useful devices are one-use emergency hives of nanomachines that can rapidl
 
 ### Medichines
 
-You have elaborate, custom built medical technology in your body. You gain the **_close wounds_** and **_I will fight on_** moves as below and automatically stabilise if `stunned` or `wounded` :
+You have elaborate, custom built medical technology in your body. You gain the **_close wounds_** move as below and automatically stabilise if `stunned` or `wounded` .
+
+If at any point you would become `dead` you instead enter an emergency protective coma. If you take any additional damage, you are `dead`. You can only be revived from this coma by significant outside medical intervention, a nanonbandage ain't gonna cut it. You cannot make the **_Close Wounds_** move while in this coma.
 
 #### Close Wounds
 
 At the end of a scene in which you have either the `stunned` or `wounded` damage track boxes ticked, roll. If you have taken no damage in the scene you are `boosted` for this roll.
 
 - On a 10+ you heal one point from your damage track.
-- On a 7-9 the medichines staunch the wound but the healing is incomplete or sub-optimal in some way. Heal one point from your damage track, but you are `glitched` ongoing until you can resolve the situation[^1].
-- On a 6- the damage is too great for the medichines to heal. You heal no damage and are `glitched` ongoing due to the drain of your medichines struggles to heal you. Outside medical attention or a significant period of rest is required to resolve this situation.
-
-#### I will fight on
-
-Once per scene in which you gain the `wounded` tag you may roll+willpower when you gain that tag.
-
-- On a 10+ you are not `degraded` and may continue to fight, however at the end of the scene you become `dead`[^2]
-- On a 7-9 your medichines place you into a protective coma. You are unconscious and may not act. At the end of the scene you are `glitched` on your **_Close Wounds_** move.
-- On a 6- the exertion overwhelms your systems and they malfunction. Roll the **_Damage Move_**
-
-[^1]: Taking the **_Close Wounds_** move at the end of the following scene counts for this purpose
-[^2]: Prompt medical attention with a Medical Kit or Nanobandage may prevent this, however, you remain `wounded` but stabilised
+- On a 7-9 the medichines staunch the wound but the healing is incomplete or sub-optimal in some way. Heal one point from your damage track, but you are `glitched` ongoing until you can resolve the situation[^1]. This `glitched` counts as a separate source to that from `stunned`, so causes you to be `degraded` ongoing if you are also `stunned`
+- On a 6- the damage is too great for the medichines to heal. You heal no damage.
