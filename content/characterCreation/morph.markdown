@@ -18,5 +18,5 @@ Most morphs also have a number of [Tags](/content/tags). These tags are generall
 **[Biomorphs](/content/morphs/biomorphs)** – Biological bodies  
 **[Pods](/content/morphs/pods)** – Mass-produced biological bodies with significant cybernetics  
 **[Synthetic Morphs](/content/morphs/synthetics)** – Fully artificial machine bodies  
-**[Infomorphs and Eidolons](/content/morphs/infomorphs)** – Purely virtual, running in a software emulation environment  
+**[Infomorphs](/content/morphs/infomorphs)** – Purely virtual, running in a software emulation environment  
 **[Exotic Morphs](/content/morphs/exotics)** – Not available through [Background](/content/charactercreation/background), see [Gear](/content/gear)

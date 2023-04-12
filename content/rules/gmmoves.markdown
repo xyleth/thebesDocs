@@ -2,7 +2,7 @@
 layout: default
 title: GM Moves
 parent: Rules
-nav_order: 6
+nav_order: 7
 ---
 
 # GM Moves
