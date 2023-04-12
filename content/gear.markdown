@@ -33,6 +33,17 @@ Some examples:
 - Medical and field-triage equipment
 - A favor or favors owed by a particular person or group
 
+### Gear complexity
+
+Every item of gear, service or Morph implant has an associated complexity. This serves to indicate if a **_Procure Something_** move is required to source it, and any modifiers to that roll. Gear may be unavailable due to circumstance, for example if there is no nanofabricator to hand or you are remote from suppliers of such things, but when they are available the following applies:
+
+- **Minor (Min)** Common, simple items that can be produced by any naofabricator. Can be acquired in reasonable quantities with no **_Procure something_** move required
+- **Moderate (Mod)** Less common items that take effort to track down, or more intricate items that require longer to nanofabricate. You are `boosted` on a **_Procure Something_** move to acquire this gear
+- **Major (Maj)** Uncommon, expensive, and hard-to-find items or complex gear that takes substantial time to fabricate. Requires a **_Procure Something_** move to acquire.
+- **Rare (Rare)** Unique, unusal, or highly valuable items may not be available or may require unusal feedstock for nanfobrication. You are `glitched` on a **_Procure Something_** move to acquire this gear.
+
+Some items of gear are additionally classified as **_Restricted (R)_**. They are dangerous, illegal or frowned upon by the local community. These items cannot be acquired with a **_Procure Something_** move until you have discovered the proper contacts to provide you with such illicit contraband.
+
 ### Currency
 
 There are two main systems of currency in the universe of Eclipse Phase. The first, used mostly in the inner system and with the hypercorps, is money, credits, and other physical goods reflected in the **_Resources_** stat. The second, used mostly in the outer system and amidst more anarchist groups, reflects a post-scarcity economy where physical goods are plentiful and a person’s time and reputation is the only unit of value. This is reflected in the **_Rep_** stat.
