@@ -9,19 +9,13 @@ nav_order: 6
 
 - **_[Starting Gear](#starting-gear)_**
 - **_[Currency](#currency)_**
-- **_[Basic Weapons](#basic-weapons)_**
-- **_[Heavy Weapons](#heavy-weapons)_**
-- **_[armour](#armour)_**
+- **_[Basic Weapons](/content/gear/weapons.html#basic-weapons)_**
+- **_[Heavy Weapons](/content/gear/weapons.html#heavy-weapons)_**
+- **_[Armour](#armour)_**
 - **_[Implants and Upgrades](#implants)_**
 - **_[Medical Supplies](#medical)_**
-- **_[Drugs](#drugs)_**
-  - **_[Cognitive Drugs](#ognitive)_**
-  - **_[Combat Drugs](#ombat)_**
-  - **_[Health Drugs](#health)_**
-  - **_[Recreational Drugs](#recreational)_**
-  - **_[Social Drugs](#social)_**
-  - **_[Nanodrugs](#nano)_**
-  - **_[Narcoalgorithms](#narco)_**
+- **_[Drugs](/content/gear/drugs.html)_**
+- **_[ALIs, Muses and Bots](/content/gear/aliMusesBots.html)_**
 
 ### Starting Gear
 
@@ -31,7 +25,7 @@ Some examples:
 
 - A basic weapon (see below)
 - Some armour (no higher than 2-armour)
-- An extra [morph](https://htmltomd.com/wikis/morph) tucked away somewhere, even an exotic morph
+- An extra [morph](/content/morphs.html) tucked away somewhere, even an exotic morph
 - Resleeving Insurance – pre-paid rebirth should you die
 - A fully instanced alpha, beta, or delta fork of yourself
 - A rare or exotic implant or upgrade

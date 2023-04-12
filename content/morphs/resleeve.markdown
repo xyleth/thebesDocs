@@ -41,7 +41,7 @@ Next make the 'Pimp my ride' move:
 
 ### Pimp my ride
 
-Roll +Resources/Rep (your choice). On a 10+ get 6 items of gear. On 7-9 get 4. On 6- get 2.
+Roll +Resources/Rep (your choice). On a 10+ get 6 items of non-restricted gear. On 7-9 get 4. On 6- get 2.
 
 You may only make this move once per resleeve.
 
