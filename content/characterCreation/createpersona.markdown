@@ -7,7 +7,7 @@ nav_order: 7
 
 ## Persona
 
-Based on your concept, background, faction, and personality, the GM will create on **_unique move_** for your character.
+Based on your concept, background, faction, and personality, the GM will create one **_unique move_** for your character.
 
 Furthermore, if you provide a dossier that answers all of the following questions, you will get a free Advance for your your character (5-XP):
 
