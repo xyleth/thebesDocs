@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Resleeving Morphs
-parent: Morphs
-nav_order: 1
+parent: Rules
+nav_order: 5
 ---
 
 # Resleeving
@@ -21,7 +21,7 @@ If a resleeve is forced in this way you are `glitched` on the subsequent Trauma 
 
 ## Obtaining a morph
 
-When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made:
+When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure](/content/moves/basicmoves#procure-something) roll must be made:
 
 - on 10+ you get the Morph with its included mods plus 4 items of gear
 - On 7-9 you _either_ get the Morph and as before but lose one rep/resource point permanently, or get just the Morph
@@ -41,7 +41,7 @@ When procuring a new morph the list of available morphs may change at MC discret
 | 11             | [Steel morph](/content/morphs/synthetics.html#steel-morph)           |
 | 12+            | [Olympian](/content/morphs/biomorphs.html#olympians)                 |
 
-Next make the 'Pimp my ride' move:
+Next make the **_Pimp my ride_** move:
 
 ### Pimp my ride
 
