@@ -15,41 +15,50 @@ Infomorphs interact with each other on a software level and, with the right tale
 
 A base informorph has the following characteristics:
 
-**Infomorph:**  
+## Infomorph:
+
 Infomorphs are digital-only forms—they lack a physical body. Infomorphs can live in the mesh or are sometimes carried by other characters instead of (or in addition to) a muse or in a ghostrider module.  
 **_Armor:_** None  
 **_Tags:_** `+virtual`
 
 An infomorph can be “sleeved” in an eidolon, a software shell environment optimized for certain functions. Eidolons work much the same as physical cyberbrains, and the two are not compatible. This means eidolons are only available for infomorphs and cannot be incorporated into a synthmorph. Any character choosing to begin play as an infomorph may choose one of the following eidolons:
 
-**Agent:**  
+## Agent:
+
 An eidolon optimized for infiltration into software systems.  
 **_Tags:_** `+eidetic memory`, `+hacking alert`, `+mental speed (intuition)`, `+mnemonic augmentation`
 
-**Digimorph:**  
+## Digimorph:
+
 A basic eidolon with built-in data storage  
 **_Tags:_** `+mnemonic augmentation`
 
-**Elite:**  
+## Elite:
+
 An eidolon optimized for social interaction.  
 **_Tags:_** `+mental speed (savvy)`, `+mnemonic augmentation`
 
-**Hotshot:**  
+## Hotshot:
+
 An eidolon optimized for piloting.  
 **_Tags:_** `+increased speed`, `+mnemonic augmentation`
 
-**Sage:**  
+## Sage:
+
 An eidolon optimized for mental computation, the infomorph equivalent of a menton.  
 **_Tags:_** `+eidetic memory`, `+hyper linguist`, `+math boost`, `+mnemonic augmentation`
 
-**Scholar:**  
+## Scholar:
+
 A basic eidolon for optimized memory, a cheaper version of the Sage.  
 **_Tags:_** `+eidetic memory`, `+mnemonic augmentation`
 
-**Slave:**  
+## Slave:
+
 An eidolon rarely used voluntarily.  
 **_Tags:_** `+copylock`, `+mnemonic augmentation`, `+modified behavior`
 
-**Wirehead:**  
+## Wirehead:
+
 An eidolon optimized to monitoring information feeds  
 **_Tags:_** `+increased speed`, `+mental speed (intuition)`, `+mnemonic augmentation`, `+panopticon`

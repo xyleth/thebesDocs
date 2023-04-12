@@ -23,19 +23,19 @@ If a resleeve is forced in this way you are `glitched` on the subsequent Trauma 
 
 When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made: on 10+ you get the Morph with its included mods plus 4 items of gear. On 7-9 you either get the Morph and as before but lose one rep/resource point permanently or get just the Morph. On a miss you either get the Morph and two negative tags (One MC choice, one player choice) or you get a morph chosen at random from the following table.
 
-| 2d6+Savvy roll | Morph |
-| -------------- | ----- |
-| 2-             | B     |
-| 3              | C     |
-| 4              | D     |
-| 5              | E     |
-| 6              | F     |
-| 7              | G     |
-| 8              | H     |
-| 9              | I     |
-| 10             | K     |
-| 11             | L     |
-| 12+            | M     |
+| 2d6+Savvy roll | Morph                                                                |
+| -------------- | -------------------------------------------------------------------- |
+| 2-             | [Spare](/content/morphs/synthetics.html#spare)                       |
+| 3              | [Case](/content/morphs/synthetics.html#case)                         |
+| 4              | [Synth](/content/morphs/synthetics.html#synth)                       |
+| 5              | [Critter](/content/morphs/pods.html#critters)                        |
+| 6              | [Basic Pod](/content/morphs/pods.html#basic-pods)                    |
+| 7              | [Splicer](/content/morphs/biomorphs.html#splicers)                   |
+| 8              | [Hibernoid](/content/morphs/biomorphs.html#hibernoids)               |
+| 9              | [Neo-Pig](/content/morphs/biomorphs.html#neo-pig)                    |
+| 10             | [Infomorph & Ghost rider](/content/morphs/infomorphs.html#infomorph) |
+| 11             | [Steel morph](/content/morphs/synthetics.html#steel-morph)           |
+| 12+            | [Olympian](/content/morphs/biomorphs.html#olympians)                 |
 
 Next make the 'Pimp my ride' move:
 
