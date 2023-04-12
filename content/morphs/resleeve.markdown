@@ -21,7 +21,11 @@ If a resleeve is forced in this way you are `glitched` on the subsequent Trauma 
 
 ## Obtaining a morph
 
-When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made: on 10+ you get the Morph with its included mods plus 4 items of gear. On 7-9 you either get the Morph and as before but lose one rep/resource point permanently or get just the Morph. On a miss you either get the Morph and two negative tags (One MC choice, one player choice) or you get a morph chosen at random from the following table.
+When procuring a new morph the list of available morphs may change at MC discretion based on circumstances. A [Procure]() roll must be made:
+
+- on 10+ you get the Morph with its included mods plus 4 items of gear
+- On 7-9 you _either_ get the Morph and as before but lose one rep/resource point permanently, or get just the Morph
+- On a miss you either get the Morph and two negative tags (One MC choice, one player choice) or you get a morph chosen at random from the following table.
 
 | 2d6+Savvy roll | Morph                                                                |
 | -------------- | -------------------------------------------------------------------- |
