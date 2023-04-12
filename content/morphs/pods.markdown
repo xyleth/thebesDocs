@@ -11,6 +11,10 @@ For game-mechanical purposes, Pods are considered Biomorphs.
 
 Pods (from “pod people”) are vat-grown, biological bodies with extremely undeveloped brains that are augmented with an implanted computer and cybernetics system. Though typically run by an AI, pods are socially unfavored in some stations, used as slave labor in others, and even illegal in some areas. Because pods underwent accelerated growth in their creation and were mostly grown as separate parts and then assembled, their biological design includes some shortcuts and limitations, offset with implants and regular maintenance. They lack reproductive capabilities. In many habitats, their legal status is a hotly contested issue.
 
+## Augur Pod
+
+Augurs were designed to incorporate biological androids into teaching, instruction, lab work, and administrative positions. They are now offered as cheaper alternatives to mentons.
+
 ## Basic Pods:
 
 When pods were first introduced, non-specialized models were favored due to their low cost and quicker production time. Basic pods are essentially a lower cost pod version of a splicer morph. To keep expenses down, this pod has slightly more mechanical parts than most other pods. As a result, it has more obvious cybernetic components.  
@@ -39,9 +43,10 @@ Originally developed for joint-nation peace-keeping missions and border/enclave 
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+puppet sock`, `+adrenal boost`, `+bioweave armor` (included above), `+claws`, `+eelware`, `+enhanced vision`, `+grip pads`, `+t-ray emitter`  
 **_Extras:_** `+stigmatized`
 
-## Specialist Pods:
+## Traceur:
 
-Designed specifically to compete with popular mid-range morphs like the menton and olympian, the specialist pod is cheaper and faster to create than a biomorph. It also offers the user a high degree of customization.  
+These athletic pods were first designed pre-Fall to incorporate androids into sports with biological humans. Now they are mass
+produced as an alternative to olympian morphs.
 **_Armor:_** 0  
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+puppet sock`,  
 **_Extras:_** `+stigmatized`, You may apply `+boosted` to one die roll per session

@@ -137,7 +137,7 @@ While there are no sanctioned explorations of Earth, a few daring or greedy tran
 **_Armor:_** +1  
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+bioweave armor` (included above), `+direction sense`, `+emergency farcaster`, `+enhanced vision`, `+low pressure tolerance`, `+medichines`, `+nanophages`, `+oxygen reserve`, `+radiation sense`, `+t-ray emitter`, `+temperature tolerance (cold)`, `+toxin filters`
 
-## Venusian Glider:
+## Glider:
 
 The glider is designed to survive for many hours in Venus’s unbreathable atmosphere. Tall and thin, with long, strong limbs and a lightweight build, this morph also features gliding membranes that allow it to soar through the upper Venusian atmosphere. It can even gain altitude by riding thermals (which it can see using its enhanced vision). Once Venusian terraforming efforts are complete, an upgraded version of this morph will be able to breathe normally.  
 **_Armor:_** 0  

@@ -15,6 +15,14 @@ Despite the advances in biotechnology, the hyperelite still need caretakers for 
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+puppet sock`, `+enhanced smell`, `+oxygen reserve`, `+temperature tolerance`, `+wrist-mounted tools`  
 **_Extras:_** `+stigmatized`
 
+### Ayah Defeder variant
+
+Ayahs are sometimes modified with protective ware and weapons to act as a last line of defense against potential attackers.
+
+**_Armor:_** 1  
+**_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+puppet sock`, `+enhanced smell`, `+oxygen reserve`, `+temperature tolerance`, `+wrist-mounted tools` `+bioweave` `+hardened skeleton` `+hand laser`
+**_Extras:_** `+stigmatized`
+
 ## Chickcharnie:
 
 Another creation by the mad geniuses of the exoplanet Fortean, this morph is a modified version of a resurrected species. The extinct Tyto pollens was a large pre-Columbian flightless ground owl species in the Caribbean. The chickcharnie was rumored to be a supernatural variant of this bird that haunted the forests bestowing boons or curses upon travelers depending on how they treated it. The Fortean version of the chickcharnie is best described as a humanoid owl. Over one meter in height, it is bipedal but stands shorter than humans. Though winged, it is flightless except in very low grav environments and microgravity. Its wing design, however, incorporates a functional set of clawed hands. The chickcharnie is growing in popularity among neo-avians who don’t mind sacrificing flight for physical resilience, more functional hands, and a stature closely approximating transhuman standards.  

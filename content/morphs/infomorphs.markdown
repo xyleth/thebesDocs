@@ -48,17 +48,24 @@ An eidolon optimized for piloting.
 An eidolon optimized for mental computation, the infomorph equivalent of a menton.  
 **_Tags:_** `+eidetic memory`, `+hyper linguist`, `+math boost`, `+mnemonic augmentation`
 
-## Scholar:
+## Ikon
 
-A basic eidolon for optimized memory, a cheaper version of the Sage.  
-**_Tags:_** `+eidetic memory`, `+mnemonic augmentation`
+To add
 
-## Slave:
+## Operator
 
-An eidolon rarely used voluntarily.  
-**_Tags:_** `+copylock`, `+mnemonic augmentation`, `+modified behavior`
+To add
 
-## Wirehead:
+## Djinn
 
-An eidolon optimized to monitoring information feeds  
-**_Tags:_** `+increased speed`, `+mental speed (intuition)`, `+mnemonic augmentation`, `+panopticon`
+Djinn are high-end infomorphs with a number of perks
+
+## Echo
+
+Echo morphs are designed for covert infiltration and social engineering
+
+## Neo
+
+Neo infomorphs are commonly assigned to hypercorp virtual work forces
+
+## Specter

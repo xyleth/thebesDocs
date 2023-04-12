@@ -54,6 +54,21 @@ Everyone knows that synthmorphs are tougher and better equipped for serious comb
 **_Armor:_** +1  
 **_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+chemical sniffer`, `+cyberclaws`, `+enhanced vision`, `+hand laser`, `+lidar`, `+neurachem`, `+puppet sock`, `+synthetic mask`, `+t-ray emitter`
 
+## Ornithope
+
+Ornithopes are synthetic birds manufactured to appeal to neo-avians. They come in a variety of shapes and styles, from corvids and parrots to forms imitating other known birds or even fantasy winged creatures
+
+**_Armor:_** +1  
+**_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+enhanced hearing`,  
+`+enhanced vision`, `+mnemonic augmentation`, `+puppet sock`
+
+### Blackbird variant:
+
+When they’re seen at all, these morphs resemble a matte gray neo-corvid with many odd, sharp angles. Blackbirds are consummate stealth morphs, designed to evade visual observation and radar during recon or infiltration. In part due to aesthetics, they’re a favorite of neo-ravens.  
+**_Armor:_** +1  
+**_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+enhanced hearing`,  
+`+enhanced vision`, `+invisibility`, `+mnemonic augmentation`, `+puppet sock`, `+reduced signature`
+
 ## Reaper:
 
 The reaper is a common combat bot, used in place of biomorph soldiers and typically operated via teleoperation or by autonomous AI. The reaper’s core form is an armored disc, so that it can turn and present a thin profile to an enemy. It uses vector-thrust nozzles to maneuver in microgravity and also takes advantage of an ionic drive for fast movement over distance. Four legs/manipulating arms and four weapon pods are folded inside its frame. The reaper’s shell is made of smart materials, allowing these limbs and weapon mounts to extrude in any direction desired and even to change shape and length. In gravity environments, the reaper walks or hops on two or four of these limbs. Reapers are infamous due to numerous war XPs, and bringing one into most habitats will undoubtedly raise eyebrows if not get you arrested.  

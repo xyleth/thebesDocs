@@ -14,13 +14,6 @@ Originally designed by a scum engineer who just wanted to see if it could be don
 **_Armor:_** +1  
 **_Tags:_** `+access jack`, `+mesh inserts`, `+brain box`, `+cortical stack`, `+eidetic memory`
 
-## Blackbird:
-
-When they’re seen at all, these morphs resemble a matte gray neo-corvid with many odd, sharp angles. Blackbirds are consummate stealth morphs, designed to evade visual observation and radar during recon or infiltration. In part due to aesthetics, they’re a favorite of neo-ravens.  
-**_Armor:_** +1  
-**_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+enhanced hearing`,  
-`+enhanced vision`, `+invisibility`, `+mnemonic augmentation`, `+puppet sock`, `+reduced signature`
-
 ## Cetus:
 
 The cetus, named after a mythological sea monster, was designed for deep sea activity and is capable of operating under extreme pressure and cold. It is a favored morph for use in the undersea domains of Ceres and Europa. Capable of moving quickly underwater, the morph can also operate outside of water in the atmospheric portion of habitats. Cetus morphs are slightly smaller than arachnoids.  
@@ -46,13 +39,15 @@ This huge, vaguely anthropomorphic synthmorph is designed for large construction
 **_Armor:_** +2  
 **_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+puppet sock`, `+grip pads`, `+hardened skeleton`, `+pneumatic limbs` (Arms), `+radar`, `+weapon mount (4)`, `+wrist-mounted tools`
 
+### Daitya combat variant
+
 ## Fenrir:
 
 Named for the monstrous wolf of Norse legend, the fenrir is one of the most imposing combat morphs ever developed. It is found only in the armed forces of the Hyoden city-state on Callisto (though blackmarket blueprints/copies are rumored to be available elsewhere). A massive, squat quadrupedal morph designed to be operated by up to six egos simultaneously, the fenrir is more akin to a super-heavy tank than a regular morph. It is possible that a single ego could fill all six ego slots at once through the use of alpha forks, but this has never been tested. The most common weapons mounted are linked HEAP and/or plasmaburst seeker launchers, exoatmospheric plasma beam bolters, and machine railguns loaded with AP rounds.  
 **_Armor:_** +3  
 **_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+360-degree vision`, `+anti-glare`, `+direction sense`, `+ego sharing`, `+enhanced hearing`, `+enhanced vision`, `+extra limbs`, `+lidar`, `+pneumatic limbs`, `+radar`, `+structural enhancement`, `+t-ray emitter`, `+weapon mount` (x6)
 
-## Fighting Kite:
+## Fierce Kite:
 
 Based on the kite morph popular with gatecrashers, this morph is somewhat more durable and better armored. It also includes a built-in laser as well as anti-detection measures. Its default mode is turbofan-driven rotorcraft; its light weight allows it to ﬂy and hover, even in thin atmospheres and heavy gravities. In streamlined ionic mode, it can travel at high speeds and maneuver in hurricane-force winds. In vacuum, it can drive itself with thrust-vector nozzles. It is occasionally used for aerial reconnaissance, but is most popular with spies, thieves, and discrete bodyguards.  
 **_Armor:_** +2  
@@ -111,7 +106,7 @@ Quartz morphs, commonly called Q-morphs, are the primary shell design used for V
 **_Armor:_** +2  
 **_Tags:_** `+access jack`, `+mesh inserts`, `+cortical stack`, `+cyberbrain`, `+mnemonic augmentation`, `+direction sense`, `+echolocation`, `+enhanced vision`, `+extreme heat shielding`, `+extreme pressure adaptation`, `+radar`, `+t-ray emitter`
 
-## Rover:
+## Raptor:
 
 Rover morphs are a smaller, defense-oriented version of the sphere morph. Each rover is 0.6 meters in diameter and, with its limbs retracted, has the ominous appearance of a reﬂective, shiny, black globe. It can extrude three arms, each with a built-in weapon: extendable claws, a small laser, and a heavy rail pistol loaded with 200 rounds of ammunition. Rovers are stealthy and highly maneuverable and so favored for bodyguard and police purposes in some areas. They are often deployed via remote control.  
 **_Armor:_** +1  

@@ -102,13 +102,13 @@ Neotenics are transhumans modified to retain a childlike form. They are smaller,
 **_Armor:_** 0  
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`
 
-## Lunar-Fliers:
+## Garuda:
 
 This morph is a version of the exalt morph that has been adapted to fly in Earth normal air pressure as long as the gravity is 0.2 g or less. Though this morph is available on other low-g worlds and habitats, it was developed for and is primarily found on Luna. This morph resembles a typical exalt morph, except that it is lightly built, has larger lungs, and has feathered wings with a wingspan of 3 meters. The wings come out of the back torso and leave the morph’s hands and wrists unhindered. The wings may also be folded behind the body.  
 **_Armor:_** 0  
 **_Tags:_** `+biomods`, `+mesh inserts`, `+cortical stack`, `+clean metabolish`, `+enhanced vision`, `+flight`.
 
-## Martian Alpiner:
+## Alpiner:
 
 Alpiners were a relatively common biomorph design on early frontier Mars, when temperatures and atmospheric pressure had not yet risen to present levels. Now they are found predominantly in the city of Olympus, where environmental conditions will always be incredibly harsh. Avid rock climbers and outdoor types also favor this morph, and in recent years it has enjoyed an unusual vogue among chic urbanites going for a rough-and-ready look without sleeving in the more de classe ruster morph.  
 **_Armor:_** 0  
