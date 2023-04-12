@@ -11,3 +11,4 @@ List of things to do
 - [] Need to do something with the `Develop Connections` page in Character Creation
 - [x] Make medichines a move
 - [x] Update morph list to reflect EP2 and Patreon MRG2 content
+- [] Add Flex (Luck) rules - 2 per sesson, no recharge other than sessions, makes any roll a 10
