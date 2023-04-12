@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Morph Tags
-parent: Tags
+parent: Gear
 nav_order: 3
 ---
 
@@ -15,7 +15,7 @@ nav_order: 3
 - `+mental speed (cognition)` – You are `+boosted` on any roll using Cognition. Not compatible with other variants of mental speed.
 - `+mental speed (intuition)` – You are `+boosted` on any roll using Intuition. Not compatible with other variants of mental speed.
 - `+mental speed (savvy)` – You are `+boosted` on any roll using Savvy. Not compatible with other variants of mental speed.
-- `+mnemonic augmentation` – You record everything you experience and can play it back or share it with others.
+- `+mnemonics`(Min) – You have enhanced memory with better, but not perfect, recall.
 - `+modified behavior` – You have been altered, either through psychosurgery or a morph implant, limiting your behavioral options
 - `+oracles` – You have a memory buffer that stores all sensory input, even those you may not initially notice. You cannot **_miss noticing something important_**.
 - `+skillware` – Artificial neural net that can be programmed with one or two skills the ego may not possess.
@@ -24,7 +24,7 @@ nav_order: 3
 **_Biomorph-only Tags:_**
 
 - `+adrenal boost` – When activated in battle, may ignore any **_damage track_** tags until the battle is over.
-- `+biomods` – Basic biological enhancements that make you better than natural
+- `+biomods`(Min) – Basic biological enhancements that make you better than natural
 - `+bioweave armor` – Armor built into your flesh. Armor-1
 - `+carapace armor` – You have built-in, hard, obvious armor. Armor-2
 - `+circadian regulation` – You can control when, and how much you sleep. Too much use may cause you to become `+glitched`
@@ -51,7 +51,7 @@ nav_order: 3
 
 - `+360 degree vision` – You can see all around yourself.
 - `+armor plating` – Upgrades an intrinsic armor rating of +1 to +2
-- `+cyberbrain` – Your [Ego](/content/charactercreation/ego) is susceptible to hacking
+- `+cyberbrain` (Maj) – Your [Ego](/content/charactercreation/ego) is susceptible to hacking
 - `+extreme heat shielding` – You can survive in extreme heat, but not in temperatures below 250C
 - `+extreme pressure adaptation` – You can survive in extremely high pressures, but not at normal habitat pressures.
 - `+fractal digits` – Your digits can split, then split, then split some more, allowing for micro-fine manipulation.
@@ -66,7 +66,7 @@ nav_order: 3
 - `+modular design` – Your morph is designed to meld with others of its type to create larger structures for varied purposes.
 - `+nanoscopic vision` – Can focus your vision to the nanoscopic level.
 - `+pneumatic limbs` – Your limbs can generate up to 7,000 newtons of force making for incredible jumps or strong punches.
-- `+puppet sock` – Your morph can be remote-controlled or teleoperated (Synthmorphs AND Pods)
+- `+puppet sock` (Mod) – Your morph can be remote-controlled or teleoperated (Synthmorphs AND Pods)
 - `+radar` – You have a radar system that helps you judge size, composition, and motion
 - `+radar invisibility` – You are invisible to radar
 - `+reduced signature` – Your morph has an unusually small radar cross-section.
@@ -78,13 +78,13 @@ nav_order: 3
 
 **_Bio and Synthmorph Tags:_**
 
-- `+access jack` – You have external ports that permit you to plug into computer systems or other people for direct communication.
+- `+access jack`(Min) – You have external ports that permit you to plug into computer systems or other people for direct communication.
 - `+anti-glare` – Your eyes or optical sensors resist bright flashes and glare.
 - `+aquatic` – You cannot operate outside of a liquid environment
 - `+chameleon skin` – You are `+boosted` on any move to conceal yourself from sight.
 - `+chemical sniffer` – You can analyze chemicals in the air by smell
 - `+coronal adaptation` – You are able to survive the incredible heat of the sun’s corona, but few other places.
-- `+cortical stack` – Without this tag, there is no coming back from `Dead`. Hard to destroy unless special care is taken.
+- `+cortical stack`(Min) – Without this tag, there is no coming back from `Dead`. Hard to destroy unless special care is taken.
 - `+cyberclaws` – You have built in melee weapons that may or may not be concealable.
 - `+dead switch` – Cortical stack accessory: Upon death of the morph, cortical stack is fried and unrecoverable.
 - `+direction sense` – You have an instinctual knowledge of direction.
@@ -106,7 +106,7 @@ nav_order: 3
 - `+hydrostatic pressure adaptation` – You’re adapted for deep sea or thick atmospheric pressures
 - `+impractical` – Your body was designed for aesthetics, not practicality.
 - `+low-pressure tolerance` – You can survive in low-pressure environments where others could not
-- `+mesh inserts` – Permits instant, neural access to the mesh, permits the **_access the mesh_** basic move.
+- `+mesh inserts` (Min)– Permits instant, neural access to the mesh, permits the **_access the mesh_** basic move.
 - `+multi-tasking` – Expensive cortical stack upgrade: constantly creates short-term forks for extra mental actions. Can roll multiple Cognition or Intuition-related moves at once. Not compatible with `+mental speed`.
 - `+nanotat ID flux` – You have an extremely expensive system that can forge nanotat IDs, fooling most ID sensors.
 - `+nanotoxins` – You have an implanted nanobot hive that creates toxins that can affect both biomorphs and synthmorphs. You are immune to your own nanotoxins. Highly illegal in most habitats.
