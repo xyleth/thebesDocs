@@ -15,7 +15,13 @@ You may only **_access the mesh_** if you have an ecto (personal computer) or yo
 
 ## Aid/Hinder
 
-When you **_take the time to aid or hinder another PC_**, they are `+boosted` or `+glitched`, your choice, but you share in any consequences of their action. Only one person may Aid/Hinder any given action.
+When you **_take the time to aid or hinder another PC_**, roll+Cx.
+
+- On a 10+ they are `elevated` or `degraded`, your choice
+- On a 7-9 they are `boosted` or `glitched`, your choice, and you share in the consequences of their action
+- On a 6- there is no affect on their roll
+
+Only one person may Aid/Hinder any given action. Aid/Hinder does not nest - you can't aid someone's aid roll, or hinder an aid roll to cancel it out, etc.
 
 ## Assess the Situation
 
