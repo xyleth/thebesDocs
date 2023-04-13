@@ -58,6 +58,14 @@ If your roll is modified by both a `+boosted` tag, and a `+glitched` tag, they c
 
 A number of moves generate a “currency” called **_hold_**. If you roll that move and generate one or more points of hold, you can spend those points at an appropriate point later in the narrative to achieve an effect as determined by the move. The GM also collects hold over PCs whenever a PC fails a roll. This hold can be used to activate [GM Moves](/content/rules/gmmoves).
 
+## Flex
+
+Flex represents your transhuman abilities. It might be near superhuman speed, or an artificially augmented intelligence, perhaps it is simply you wide array of personal contacts made possible only by your Muses careful tending of your contact list. Whatever it is, it makes you special and enables you to do incredible things.
+
+You may spend a point of Flex to make any roll a 10, at any time. You must declare you are spending Flex _before_ your roll.
+
+You get 2 points of Flex for each session of gameplay. Flex does not carry over between sessions, and there is no way to gain more during play. Use it wisely.
+
 ## Damage and Sanity
 
 You have two condition tracks corresponding to the physical damage taken by your [Morph](/content/rules/morphs) and your long-term sanity. Each level of the condition track has a [Tag](/content/tags/damageTrauma.html) associated with it.
