@@ -1,8 +1,8 @@
 ---
 layout: default
 title: GM Moves
-parent: Rules
-nav_order: 7
+parent: GM Notes
+nav_order: 1
 ---
 
 # GM Moves
