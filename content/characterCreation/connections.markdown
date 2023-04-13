@@ -39,25 +39,23 @@ On your turn, ask the other players which of their characters you can trust.
 
 ### Set 3
 
-• Which one of you has slept in my presence (knowingly or un-)?
-
-- For that character, write Cx+2.
-  • Which one of you have I been watching carefully, in secret?
-- For that character, write Cx+2.
-  • Which one of you most evidently dislikes and distrusts me?
-- For that character, write Cx+3.
+- Which one of you has slept in my presence (knowingly or un)?
+  - For that character, write Cx+2.
+- Which one of you have I been watching carefully, in secret?
+  - For that character, write Cx+2.
+- Which one of you most evidently dislikes and distrusts me?
+  - For that character, write Cx+3.
 
 For everyone else, write Cx+1. You have weird insights into everyone.
 
 ### Set 4
 
-• Which one of you used to ride with my gang?
-
-- For that character, write Cx+1.
-  • Which one of you figures that you could take me in a fight, if it came to it?
-- For that character, write Cx+2.
-  • Which one of you once stood up to me, gang and all?
-- For that character, write Cx+3.
+- Which one of you used to ride with my gang?
+  - For that character, write Cx+1.
+- Which one of you figures that you could take me in a fight, if it came to it?
+  - For that character, write Cx+2.
+- Which one of you once stood up to me, gang and all?
+  - For that character, write Cx+3.
 
 For everyone else, write Cx-1. You don’t really care much about, y’know, people
 
