@@ -26,7 +26,7 @@ Gangs come in three sizes - small, medium and large. This affects modifiers to t
 
 ### Large gangs
 
-A large gang is in excess of 30 individuals.
+A large gang is in excess of 50 individuals.
 
 A large gang gets:
 
@@ -36,7 +36,7 @@ A large gang gets:
 
 ### Medium gangs
 
-A medium gang consists of between 16 and 29 individuals.
+A medium gang consists of between 25 - 50 individuals.
 
 A medium gang gets:
 
@@ -46,10 +46,26 @@ A medium gang gets:
 
 ### Small gang
 
-A small gang consists of up to 15 individuals.
+A small gang consists of 10-25 individuals.
 
 A small gang gets:
 
 - +1 damage and +1 armour against a lone person
 - Normal damage and armour against 2 or 3 people
 - -1 damage and -1 armour against an entire party
+
+## Gangs and damage
+
+When a gang takes damage it can begin to fall apart / lose members. This can reduce the size of the gang.
+
+- 1 damage: a few injuries, one or two serious, no fatalities
+- 2 damage: many injuries, several serious, a couple of fatalities
+- 3 damage: widespread injuries, many serious, several fatalities
+- 4 damage: widespread serious injuries, many fatalities
+- 5 damage and more: widespread fatalities, few surveyors
+
+### Holding it together when shit goes bad
+
+If the gang's leader is present, active and strong a gang will hold together up to 4 damage. If the leader is weak or absent it will hold together if it suffers up to 3. Both weak _and_ absent and it's 2 damage. If there is no leader then it'll start to fall apart after only 1 damage.
+
+How a gang falls apart is up to the GM. They may panic and flee in all directions. They may make an orderly retreat under fire, or they may simply move on looking for easier targets.

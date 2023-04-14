@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NPCs and Vehicles
+parent: GM Notes
 nav_order: 4
 ---
 
@@ -18,7 +19,7 @@ NPCs suffer damage differently than PCs do, but that damage can scale according 
 - 4-damage: usually immediately fatal, sometimes mangled and ruined, waiting to die
 - 5-damage and more: fatal and bodily destructive
 
-**_When a “lieutenant”-grade NPC suffers damage_** reduce thedamage by 1 on the scale above for purposes of consequences only.
+**_When a “lieutenant”-grade NPC suffers damage_** reduce the damage by 1 on the scale above for purposes of consequences only.
 
 **_When a “captain”-grade NPC suffers damage_** reduce the damage by 2 on the scale above for purposes of consequences only.
 
