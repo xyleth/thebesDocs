@@ -41,4 +41,4 @@ Bots are autonomous robots controlled by an inbuilt ALI. Bots can be given instr
 
 ### Guardian angel
 
-When you **_roll the damage move_** and miss you may sacrifice the bot instead of taking damage.
+When you **_roll the damage move_** and miss you may sacrifice the bot instead of taking damage. The bot is destroyed and cannot be repaired without a mechanic's shop (as per the **_mechanic_** move).
