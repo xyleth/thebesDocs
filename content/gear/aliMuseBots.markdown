@@ -38,3 +38,7 @@ Muses uses the same stat lines as other ALIs, however they are not `glitched` wh
 ## Bots
 
 Bots are autonomous robots controlled by an inbuilt ALI. Bots can be given instructions by their controllers, which they will attempt to fulfil to the the best of their abilities. They can also be remotely 'puppeted' by a Transhuman Ego, often a Infomorph, with the appropriate equipment.
+
+### Guardian angel
+
+When you **_roll the damage move_** and miss you may sacrifice the bot instead of taking damage.
