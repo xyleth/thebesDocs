@@ -16,5 +16,4 @@ The lists are divided somewhat arbitrarily by category for ease of selection..
 [Personal Moves](/content/moves/personal)  
 [PSI Moves](/content/moves/psi)  
 [Social Moves](/content/moves/social)  
-[Special Moves](/content/moves/special)  
 [Tech Moves](/content/moves/tech)

@@ -18,7 +18,7 @@ Your Ego is who you are as a person. It has nothing to do with your [body](/cont
 **_Savvy_** – Your personality’s ability to smoothly interact with others  
 **_Willpower_** – Your ego’s stability, resistance to degradation over time
 
-Your six Ego tats are generated using the following point-buy method:
+Your six Ego stats are generated using the following point-buy method:
 
 - You have 5 points to spend.
 - All stats begin at +0.
