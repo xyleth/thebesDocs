@@ -14,7 +14,7 @@ Each advance indicates in parentheses how many times it may be selected:
 - +1 to an Ego Stat (max stat +3) (up to 3 times)
 - +1 to a Background Stat (max stat +3) (unlimited)
 - +1 Move (up to 4 times)
-- Advance your Fame, or Wealth (up to 3 times)
+- Advance your Rep or Resources by +1 (up to 3 times)
 
 **_Must have 5 total advances from choices above before selecting those below_**
 
