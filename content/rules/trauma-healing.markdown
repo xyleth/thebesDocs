@@ -20,10 +20,10 @@ Trauma is tracked via the [Sanity Track](#sanity-track).
 \[\] `+disassociated`
 \[\] `Insane`
 
-Each of these applies the respective [tag](/content/tags/damage-trauma.html) to your character. For ease of reference these tags are reproduced here:
+Each of these applies the respective [tag](/content/tags/damage-trauma) to your character. For ease of reference these tags are reproduced here:
 
 - `+odd` – You’re a bit off, no game mechanical detriment
-- `+eccentric` – Gain the [Eccentric](/content/moves/personal#Eccentric) move
+- `+eccentric` – Gain the [Eccentric](/content/moves/personal#eccentric) move
 - `+disassociated` – You are `+glitched` on all **_trauma move_** rolls.
 - `Insane` – Not a tag, so much, as a state of being. You are unrecoverably insane. Retire your character.
 
@@ -45,8 +45,8 @@ On a miss, mark 1 off the Sanity track.
 
 Trauma is much harder to heal than damage to your morph. As damage to your very psyche it persists with your Ego and travels with you from morph to morph.
 
-- You can get someone to perform [Psychosurgery](/content/moves/tech.html#psychosurgery) on your ego
-- You can allow an async to perform the [Downtime](/content/moves/psi.html#downtime) move on you
+- You can get someone to perform [Psychosurgery](/content/moves/tech#psychosurgery) on your ego
+- You can allow an async to perform the [Downtime](/content/moves/psi#downtime) move on you
 - You can wait it out, working on it with the aid of your Muse or an external Therapist
 
 For the latter option you can cure one box of `odd` per month of Therapy in which you do not accrue any further trauma. `eccentric` takes three months of uninterrupted therapy to heal before you can start on the `odd` boxes. `disassociated` requires Psychosurgery or the Downtime move as above.

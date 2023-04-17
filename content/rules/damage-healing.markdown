@@ -18,7 +18,7 @@ Damage is tracked on the [damage track](#damage-track). This represents the dama
 \[\] `+wounded`
 \[\] `Dead`
 
-Each of these applies the respective [tag](/content/tags/damage-trauma.html) to your character. For ease of reference these tags are reproduced here:
+Each of these applies the respective [tag](/content/tags/damage-trauma) to your character. For ease of reference these tags are reproduced here:
 
 - `+scuffed` – Minor damage, no game mechanical detriment
 - `+stunned` – You are `+glitched` on all actions and will get worse unless stabilised
@@ -48,11 +48,11 @@ On a miss, you suffer the full brunt of the damage and the GM chooses 1:
 
 The `stunned` checkbox may be healed in the field by a character who has **medical supplies** and a move that allows them to use them, or by any player with a **nanobandage**.
 
-Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker](/content/moves/tech#Medical) move. Stabilising a `wounded` character may be attempted with **medical supplies**.
+Healing the `wounded` tag requires access to medical facilities and someone who can use them, for example with the [Medical Miracle Worker](/content/moves/tech#medical-miracle-worker) move. Stabilising a `wounded` character may be attempted with **medical supplies**.
 
 ### Medical supplies
 
-Trained medical professionals, such as those with the **_[Battlefield Medic](/content/moves/combat#Medic)_** move, may use a medical kit in the following fashion:
+Trained medical professionals, such as those with the **_[Battlefield Medic](/content/moves/combat#battlefield-medic)_** move, may use a medical kit in the following fashion:
 
 Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. A fresh, unopened medical kit as a stock score of 10. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
 
