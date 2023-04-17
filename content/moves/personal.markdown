@@ -7,18 +7,18 @@ nav_order: 2
 
 # Personal Moves
 
-- **_[Body Hopper](#body)_**
-- **_[Break and Enter](#break)_**
-- **_[Disguise](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Disguise)_**
-- **_[Eccentric](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Eccentric)_**
-- **_[Expertise](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Expertise)_**
-- **_[Fitness](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Fitness)_**
-- **_[In the Thick of Things](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Thick)_**
-- **_[Mercurial Mindset](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Mercurial)_**
-- **_[Paragon](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Paragon)_**
-- **_[Retribution](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Retribution)_**
-- **_[Team Player](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Team)_**
-- **_[Tough in the Fiber](#tough)_**
+- **_[Body Hopper](#body-hopper)_**
+- **_[Break and Enter](#break-and-enter)_**
+- **_[Disguise](#disguise)_**
+- **_[Eccentric](#eccentric)_**
+- **_[Expertise](#expertise)_**
+- **_[Fitness](#fitness)_**
+- **_[In the Thick of Things](#in-the-thick-of-things)_**
+- **_[Mercurial Mindset](#mercurial-mindset)_**
+- **_[Paragon](#paragon)_**
+- **_[Retribution](#retribution)_**
+- **_[Team Player](#team-player)_**
+- **_[Tough in the Fiber](#tough-in-the-fiber)_**
 
 ## Body Hopper  
 You never need to roll **_integration, alienation, and continuity_** as a result of voluntary resleeving. Resleeving after death, or being restored from backup requires **_integration, alienation, and continuity_** as normal.

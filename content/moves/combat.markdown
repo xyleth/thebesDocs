@@ -21,7 +21,6 @@ nav_order: 3
 - **_[Merciless](#merciless)_**
 - **_[Not to be Fucked With](#not-to-be-fucked-with)_**
 - **_[Packing All Kinds of Heat](#packing-all-kinds-of-heat)_**
-- **_[Squad Leader](#squad-leader)_**
 
 ## Battlefield Medic
 

@@ -8,15 +8,14 @@ has_children: true
 
 **Tech Moves:**
 
-- **_[All My Vices Are Devices](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Vices)_**
-- **_[Cyberbrain Hacking](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Cyberbrain)_**
+- **_[All My Vices Are Devices](#all-my-vices-are-devices)_**
+- **_[Cyberbrain Hacking](#cyberbrain-hacking)_**
 - **_[Hacker](#hacker)_**
 - **_[Mechanic](#mechanic)_**
 - **_[Medical Miracle Worker](#medical-miracle-worker)_**
 - **_[Nanovirus Fabricator](#nanovirus-fabricator)_**
 - **_[Psychosurgery](#psychosurgery)_**
 - **_[Glitch in the System](#glitch-in-the-system)_**
-- **_[Drone rig](#drone-rig)_**
 - **_[Master puppeteer](#master-puppeteer)_**
 
 ## All My Vices Are Devices
