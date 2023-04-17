@@ -9,8 +9,8 @@ At Character Creation, choose 2 moves from the lists below.
 
 The lists are divided somewhat arbitrarily by category for ease of selection..
 
-[Basic Moves](/content/moves/basicmoves)  
-[Battle Moves](/content/moves/battlemoves)  
+[Basic Moves](/content/moves/basic-moves)  
+[Battle Moves](/content/moves/battle-moves)  
 [Combat Moves](/content/moves/combat)  
 [Logistics Moves](/content/moves/logistics)  
 [Personal Moves](/content/moves/personal)  

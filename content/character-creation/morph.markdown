@@ -7,9 +7,9 @@ nav_order: 5
 
 ## Morph
 
-Your Morph is the body that your [Ego](/content/charactercreation/ego) is inhabiting at any given time. It could be the physical body you were born with, or perhaps a robotic shell you’re occupying temporarily. Your Morph determines your capabilities in the physical world, with some secondary influence over your social interactions.
+Your Morph is the body that your [Ego](/content/character-creation/ego) is inhabiting at any given time. It could be the physical body you were born with, or perhaps a robotic shell you’re occupying temporarily. Your Morph determines your capabilities in the physical world, with some secondary influence over your social interactions.
 
-Some morphs are strong. Some are fast, some are smart. Some morphs are looked down upon and grant the `+stigmatized` tag. Others are so unearthly in their beauty and perfection that you get bonuses to all social interaction. Your [Background](/content/charactercreation/background) determines which morph you may start play with.
+Some morphs are strong. Some are fast, some are smart. Some morphs are looked down upon and grant the `+stigmatized` tag. Others are so unearthly in their beauty and perfection that you get bonuses to all social interaction. Your [Background](/content/character-creation/background) determines which morph you may start play with.
 
 When procuring a new morph see the resleeving rules.
 
@@ -19,4 +19,4 @@ Most morphs also have a number of [Tags](/content/tags). These tags are generall
 **[Pods](/content/morphs/pods)** – Mass-produced biological bodies with significant cybernetics  
 **[Synthetic Morphs](/content/morphs/synthetics)** – Fully artificial machine bodies  
 **[Infomorphs](/content/morphs/infomorphs)** – Purely virtual, running in a software emulation environment  
-**[Exotic Morphs](/content/morphs/exotics)** – Not available through [Background](/content/charactercreation/background), see [Gear](/content/gear)
+**[Exotic Morphs](/content/morphs/exotics)** – Not available through [Background](/content/character-creation/background), see [Gear](/content/gear)
