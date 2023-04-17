@@ -11,7 +11,7 @@ nav_order: 1
 
 Artificial Limited Intelligences are AIs that are designed to be below the Sapience level required for true Artifical General Intelligence (AGI). ALIs can be found everywhere in the world of Eclipse Phase, most equipment has a inbuilt ALI responsible for handling interactions with the user. They are capable of following complex orders and reacting to a wide range of circumstances. However they cannot act beyond their programming or innovate new solutions to unfamiliar problems.
 
-For game purposes ALIs are capable of taking the following [basic moves](/content/moves/basicmoves.html) that they are equipped for. For example a ALI that controls an advertising kiosk could not **open fire** on someone as it has no weapon attached. An ALI is `glitched` ongoing on any move that it makes.
+For game purposes ALIs are capable of taking the following [basic moves](/content/moves/basic-moves) that they are equipped for. For example a ALI that controls an advertising kiosk could not **open fire** on someone as it has no weapon attached. An ALI is `glitched` ongoing on any move that it makes.
 
 - Access the Mesh
 - Open Fire
@@ -33,7 +33,7 @@ By default ALIs have the following Ego stats:
 
 Muses are specialised ALIs that serve as personal assistants, confidantes, best friends and therapists to their Transhuman partners. Most Transhumans get a muse in infancy and the two grow up together. Muses navigate the administrative complexity of life in AF10, handling the majority of paperwork and learning their partners preferences and automatically arranging things to their liking ahead of time.
 
-Muses uses the same stat lines as other ALIs, however they are not `glitched` when they take moves that relate to their partnered Transhuman. In addition a Muse has access to the [Psychosurgery](/content/moves/tech.html#psychosurgery) that can only be used on their partner. This move is `boosted` when taken against their partner.
+Muses uses the same stat lines as other ALIs, however they are not `glitched` when they take moves that relate to their partnered Transhuman. In addition a Muse has access to the [Psychosurgery](/content/moves/tech#psychosurgery) that can only be used on their partner. This move is `boosted` when taken against their partner.
 
 ## Bots
 

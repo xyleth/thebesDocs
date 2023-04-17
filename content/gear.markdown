@@ -9,13 +9,13 @@ nav_order: 6
 
 - **_[Starting Gear](#starting-gear)_**
 - **_[Currency](#currency)_**
-- **_[Basic Weapons](/content/gear/weapons.html#basic-weapons)_**
-- **_[Heavy Weapons](/content/gear/weapons.html#heavy-weapons)_**
+- **_[Basic Weapons](/content/gear/weapons#basic-weapons)_**
+- **_[Heavy Weapons](/content/gear/weapons#heavy-weapons)_**
 - **_[Armour](#armour)_**
 - **_[Implants and Upgrades](#implants)_**
 - **_[Medical Supplies](#medical)_**
 - **_[Drugs](/content/gear/drugs.html)_**
-- **_[ALIs, Muses and Bots](/content/gear/aliMusesBots.html)_**
+- **_[ALIs, Muses and Bots](/content/gear/ali-muses-bots.html)_**
 
 ### Starting Gear
 
@@ -25,7 +25,7 @@ Some examples:
 
 - A basic weapon (see below)
 - Some armour (no higher than 2-armour)
-- An extra [morph](/content/morphs.html) tucked away somewhere, even an exotic morph
+- An extra [morph](/content/morphs) tucked away somewhere, even an exotic morph
 - Resleeving Insurance – pre-paid rebirth should you die
 - A fully instanced alpha, beta, or delta fork of yourself
 - A rare or exotic implant or upgrade
@@ -39,13 +39,13 @@ There are two main systems of currency in the universe of Eclipse Phase. The fir
 
 Both of these stats are fluid, and can fluctuate up or down due to events, purchases, and other influences. Both function essentially identically, but may be `boosted` or `glitched` depending on which stat you’re using with which individuals. Hypercorps will prefer Resources, while Anarchists will prefer Rep.
 
-You may find your **_Resources_** and **_Rep_** diminishing as you stretch them in procuring things. You can increase those stats through [Advancement](/content/rules/advancement.html), [Moves](/content/moves.html) such as [Wealth](/content/moves/logistics.html#wealth) or [fame](/content/moves/social.html#fame), or through narrative events. The GM may award “Upvotes” or “Payouts,” which accumulate until spent. You can spend an Upvote to gain `+boosted`\-forward on your next Rep roll, or you can spend 3 Upvotes to increase your Rep stat by 1. You can spend a Payout to gain `+boosted`\-forward on your next Resources roll, or you can spend 3 Payouts to increase your Resources stat by 1. Upvotes and Payouts are freely transferable between characters.
+You may find your **_Resources_** and **_Rep_** diminishing as you stretch them in procuring things. You can increase those stats through [Advancement](/content/rules/advancement), [Moves](/content/moves) such as [Wealth](/content/moves/logistics#wealth) or [fame](/content/moves/social#fame), or through narrative events. The GM may award “Upvotes” or “Payouts,” which accumulate until spent. You can spend an Upvote to gain `+boosted`\-forward on your next Rep roll, or you can spend 3 Upvotes to increase your Rep stat by 1. You can spend a Payout to gain `+boosted`\-forward on your next Resources roll, or you can spend 3 Payouts to increase your Resources stat by 1. Upvotes and Payouts are freely transferable between characters.
 
 Resources and Rep can go no higher than +3 and no lower than -2. If either stat reaches -2, you may no longer roll it until it increases to at least -1.
 
 ### Weapons
 
-See [Weapons](/content/gear/weapons.html)
+See [Weapons](/content/gear/weapons)
 
 ### Armour
 
@@ -57,15 +57,15 @@ Armour comes in three categories:
 - Combat armour (2-armour) tends to be bulky and obvious, taking forms like thick crab-like carapace, sealed suits of armour, or thick armour plating bolted to your chassis.
 - Heavy armour (3-armour) is rare, found usually on dedicated combat synthmorphs and machines of war.
 
-Armour of rating 2 or above must be procured with a [Procure Something](/content/moves/basicmoves.html#procure-something) move.
+Armour of rating 2 or above must be procured with a [Procure Something](/content/moves/basic-moves#procure-something) move.
 
 ### Implants and Upgrades
 
-The galaxy is full of hi-tech nanoware implants for biomorphs or software or hardware upgrades for synthmorphs. Rather than create an exhaustive list, simply check the list of **_[morph tags](/content/tags.html)_**. Each of them represents some form of upgrade that you can purchase or procure. Some tags are only applicable to biomorphs, others are only applicable to synthmorphs, and yet others have different tech that applies the same benefit to both types.
+The galaxy is full of hi-tech nanoware implants for biomorphs or software or hardware upgrades for synthmorphs. Rather than create an exhaustive list, simply check the list of **_[morph tags](/content/tags)_**. Each of them represents some form of upgrade that you can purchase or procure. Some tags are only applicable to biomorphs, others are only applicable to synthmorphs, and yet others have different tech that applies the same benefit to both types.
 
 ### Medical Supplies
 
-Trained medical professionals, such as those with the **_[Battlefield Medic](/content/moves/combat.html#battlefield-medic)_** move, may use a medical kit in the following fashion:
+Trained medical professionals, such as those with the **_[Battlefield Medic](/content/moves/combat#battlefield-medic)_** move, may use a medical kit in the following fashion:
 
 Your kit has all kinds of stuff in it, like nanobandages and advanced biotech, represented by a “stock” score. A fresh, unopened medical kit as a stock score of 10. When you use it, spend its stock; you can spend 0–3 of its stock per use. You can resupply it with a **_procure something_** roll if your circumstances let you barter for medical supplies.
 

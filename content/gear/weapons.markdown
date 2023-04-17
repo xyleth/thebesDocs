@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Range tags
 
-See [A note on ranges](/content/rules/combat.html#a-note-on-ranges) for details. The range tags are:
+See [A note on ranges](/content/rules/combat#a-note-on-ranges) for details. The range tags are:
 
 - `+intimate`
 - `+hand`
@@ -87,9 +87,9 @@ Microwave Agonizer (3-damage `+close` `+shock` `+autofire` `+bio` `+hi-tech`)
 
 ### Heavy Weapons
 
-Heavy weapons require specialized training to use, and often a specialized [morph](/content/morphs.html) or a vehicle to mount them on. Anyone trying to use a heavy weapon without the **_[Heavy Weapon Training](/content/moves/combat.html#heavy-weapon-training)_** move must first successfully **_take a chance_** rolling+Hard.
+Heavy weapons require specialized training to use, and often a specialized [morph](/content/morphs) or a vehicle to mount them on. Anyone trying to use a heavy weapon without the **_[Heavy Weapon Training](/content/moves/combat#heavy-weapon-training)_** move must first successfully **_take a chance_** rolling+Hard.
 
-Heavy weapons must be procured with a [Procure Something](/content/moves/basicmoves.html#procure-something) move.
+Heavy weapons must be procured with a [Procure Something](/content/moves/basic-moves.html#procure-something) move.
 
 Heavy weapons are created much like basic weapons, using the following choices:
 

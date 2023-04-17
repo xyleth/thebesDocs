@@ -5,7 +5,7 @@ parent: Gear
 nav_order: 3
 ---
 
-### **Morph Tags:**
+# **Morph Tags:**
 
 **_All Morph Tags:_**
 
@@ -39,7 +39,7 @@ nav_order: 3
 - `+gills` – You can extract oxygen from breathing water
 - `+hardened skeleton` – You have one additional `+scuffed` level on the **_damage track_**.
 - `+hibernation` – You can enter a hibernative state where you consume very little oxygen and other resources.
-- `+medichines` – You have elaborate, custom built medical technology in your body. See the [Damage and Healing](/content/rules/damageHealing.html#medichines) rules for details.
+- `+medichines` – You have elaborate, custom built medical technology in your body. See the [Damage and Healing](/content/rules/damage-healing.html#medichines) rules for details.
 - `+muscle augmentation` – You are `+boosted` on non-combat feats of strength, including uses of Hard to **_take a chance_**.
 - `+oxygen reserves` – You have an internal supply of oxygen that can keep you alive longer in airless settings.
 - `+poisonous` – You have a specialized gland that can secrete a poison. You are immune to your own poison. Does not produce `+nanotoxins`
@@ -52,7 +52,7 @@ nav_order: 3
 
 - `+360 degree vision` (Min) – You can see all around yourself.
 - `+armor plating` – Upgrades an intrinsic armor rating of +1 to +2
-- `+cyberbrain` (Maj) – Your [Ego](/content/charactercreation/ego) is susceptible to hacking
+- `+cyberbrain` (Maj) – Your [Ego](/content/character-creation/ego) is susceptible to hacking
 - `+extreme heat shielding` – You can survive in extreme heat, but not in temperatures below 250C
 - `+extreme pressure adaptation` – You can survive in extremely high pressures, but not at normal habitat pressures.
 - `+fractal digits` – Your digits can split, then split, then split some more, allowing for micro-fine manipulation.

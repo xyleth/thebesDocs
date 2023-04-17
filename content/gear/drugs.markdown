@@ -13,11 +13,11 @@ Drugs are usually of benefit (or detriment) only to biomorphs, but most can be r
 
 when you indulge in a drug, roll+Willpower. On a 10+, you experience the effects as normal. On 7-9, you experience the effects but with some drawbacks:
 
-- You had a bad batch. Roll the [damage move](/content/rules/damageHealing.html#damage-move) or the [trauma move](/content/rules/damageHealing.html#trauma-move) (your choice)
+- You had a bad batch. Roll the [damage move](/content/rules/damage-healing#damage-move) or the [trauma move](/content/rules/damage-healing#trauma-move) (your choice)
 - It wasn’t very potent. The effect lasts half as long
 - You feel sick. You are `+glitched` ongoing until the effect wears off.
 
-On a 6-, you become addicted to the drug. You must indulge at least once a session, or otherwise roll the [trauma move](/content/rules/damageHealing.html#trauma-move). If you go 3 sessions without a hit, roll+Willpower. On a hit, you are no longer addicted. On a 7-9, you are `+glitched` ongoing until the withdrawal wears off. On a miss, you are still hooked. If you roll snake eyes on this move, you overdose and go directly to `Unconscious` or `Dead`… your choice.
+On a 6-, you become addicted to the drug. You must indulge at least once a session, or otherwise roll the [trauma move](/content/rules/damage-healing#trauma-move). If you go 3 sessions without a hit, roll+Willpower. On a hit, you are no longer addicted. On a 7-9, you are `+glitched` ongoing until the withdrawal wears off. On a miss, you are still hooked. If you roll snake eyes on this move, you overdose and go directly to `Unconscious` or `Dead`… your choice.
 
 ## Drug List
 
