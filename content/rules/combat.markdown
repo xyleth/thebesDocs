@@ -13,9 +13,9 @@ There are two forms of combat in this system that differ mostly in how pre-medit
 
 ## Small scale violence
 
-Here we speak of 1v1 fights, spontaneous bar-fights and other random acts of violence. In this case you simply describe the scene as usual and then roll the appropriate [move](http://localhost:4000/content/moves.html). For engagements at range use [Open Fire](/content/moves/basicmoves.html#open-fire), if you prefer to get upclose and personal instead use [Skirmish](/content/moves/basicmoves.html#skirmish)
+Here we speak of 1v1 fights, spontaneous bar-fights and other random acts of violence. In this case you simply describe the scene as usual and then roll the appropriate [move](/content/moves). For engagements at range use [Open Fire](/content/moves/basic-moves#open-fire), if you prefer to get upclose and personal instead use [Skirmish](/content/moves/basic-moves#skirmish)
 
-Notice that when you [Skirmish](/content/moves/basicmoves.html#skirmish) you roll the [damage move](/content/rules/damageHealing.html#damage-move) from your opponent before inflicting your own damage. This may seem strange but remember this single move is encompassing an entire fight, not a single swing, and there is always the chance that the chaos of melee will not go your way.
+Notice that when you [Skirmish](/content/moves/basic-moves#skirmish) you roll the [damage move](/content/rules/damage-healing#damage-move) from your opponent before inflicting your own damage. This may seem strange but remember this single move is encompassing an entire fight, not a single swing, and there is always the chance that the chaos of melee will not go your way.
 
 ## Into Battle!
 
@@ -23,7 +23,7 @@ If the violence is larger in scale, involving multiple participants, or more pre
 
 - Some moves specific that they activate whenever you **Go into Battle**
 - The order of things becomes slightly, but only slightly, more formalised
-- The [Battle Moves](/content/moves/battlemoves.html) become available for use to all characters
+- The [Battle Moves](/content/moves/battle-moves) become available for use to all characters
 
 To be clear there is no initiative, no order tracker or firm order in which each player goes. We are still narrating the story, only now we are being a little more focused. A battle is a single scene that is further subdivided into segments. Here each segment spans only seconds or minutes of in-world time and typically involves characters executing a specific objective in the fight, along with corresponding reactions from the enemy. Remember you are not rolling to shoot someone once - you are instead rolling to resolve a short narrative segment where you run forward, vault over the stack of crates between you and the enemy exsurgent and empty your clip into the back of their head at point-blank range!
 

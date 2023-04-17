@@ -19,7 +19,7 @@ A **_session_** is composed of multiple **_scenes_**. A **_scene_** is a single 
 
 ## Stats
 
-Each character has 6 Stats associated with their [Ego](/content/charactercreation/ego) :  
+Each character has 6 Stats associated with their [Ego](/content/character-creation/ego) :  
 **_Cognition_** – Your mind’s ability to find and apply information quickly.  
 **_Intuition_** – Your mind’s ability to efficiently process external stimuli  
 **_Reflex_** – Your ego’s ability to fully integrate with your morph for fine motor skills  
@@ -27,11 +27,11 @@ Each character has 6 Stats associated with their [Ego](/content/charactercreatio
 **_Savvy_** – Your personality’s ability to smoothly interact with others  
 **_Willpower_** – Your ego’s stability, resistance to degradation over time
 
-Characters also have 2 Stats associated with their [Background](/content/charactercreation/background):  
+Characters also have 2 Stats associated with their [Background](/content/character-creation/background):  
 **_Rep_** – Your personality’s aggregate reputation among all social media  
 **_Resources_** – Your access to wealth in the form of credits and other physical assets
 
-[Ego](/content/charactercreation/ego) stats are static, unless improved through [Advancement](/content/rules/advancement). [Background](/content/charactercreation/background) stats, however, will fluctuate permanently as you rely on your Resources or Rep to procure goods or services, and as you perform actions that increase your Resources and Rep.
+[Ego](/content/character-creation/ego) stats are static, unless improved through [Advancement](/content/rules/advancement). [Background](/content/character-creation/background) stats, however, will fluctuate permanently as you rely on your Resources or Rep to procure goods or services, and as you perform actions that increase your Resources and Rep.
 
 ## Moves
 
@@ -56,7 +56,7 @@ If your roll is modified by both a `+boosted` tag, and a `+glitched` tag, they c
 
 ## Hold
 
-A number of moves generate a “currency” called **_hold_**. If you roll that move and generate one or more points of hold, you can spend those points at an appropriate point later in the narrative to achieve an effect as determined by the move. The GM also collects hold over PCs whenever a PC fails a roll. This hold can be used to activate [GM Moves](/content/rules/gmmoves).
+A number of moves generate a “currency” called **_hold_**. If you roll that move and generate one or more points of hold, you can spend those points at an appropriate point later in the narrative to achieve an effect as determined by the move. The GM also collects hold over PCs whenever a PC fails a roll. This hold can be used to activate [GM Moves](/content/rules/gm-moves).
 
 ## Flex
 
@@ -68,7 +68,7 @@ You get 2 points of Flex for each session of gameplay. Flex does not carry over 
 
 ## Damage and Sanity
 
-You have two condition tracks corresponding to the physical damage taken by your [Morph](/content/rules/morphs) and your long-term sanity. Each level of the condition track has a [Tag](/content/tags/damageTrauma.html) associated with it.
+You have two condition tracks corresponding to the physical damage taken by your [Morph](/content/rules/morphs) and your long-term sanity. Each level of the condition track has a [Tag](/content/tags/damage-trauma.html) associated with it.
 
 ## Damage Track
 
@@ -88,9 +88,9 @@ You have two condition tracks corresponding to the physical damage taken by your
 \[\] `+dissassociated`
 \[\] `Insane`
 
-When you take physical damage, you will roll the [Damage Move](/content/rules/damageHealing.html#damage-move). When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the [Trauma Move](/content/rules/traumaHealing.html#trauma-move). Both of these moves are [Basic Moves](/content/moves/basicmoves).
+When you take physical damage, you will roll the [Damage Move](/content/rules/damage-healing.html#damage-move). When you suffer mental trauma from horror or an ego-hacking attempt, you will roll the [Trauma Move](/content/rules/trauma-healing.html#trauma-move). Both of these moves are [Basic Moves](/content/moves/basic-moves).
 
-Damage can be [healed](/content/rules/damageHealing.html) with medical attention. Sanity can never be healed except through [Psychosurgery](/content/moves/tech#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
+Damage can be [healed](/content/rules/damage-healing.html) with medical attention. Sanity can never be healed except through [Psychosurgery](/content/moves/tech#Psychosurgery) or taking certain [Advances](/content/rules/advancement).
 
 ## Data Points
 

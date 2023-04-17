@@ -18,7 +18,7 @@ Damage is tracked on the [damage track](#damage-track). This represents the dama
 \[\] `+wounded`
 \[\] `Dead`
 
-Each of these applies the respective [tag](/content/tags/damageTrauma.html) to your character. For ease of reference these tags are reproduced here:
+Each of these applies the respective [tag](/content/tags/damage-trauma.html) to your character. For ease of reference these tags are reproduced here:
 
 - `+scuffed` – Minor damage, no game mechanical detriment
 - `+stunned` – You are `+glitched` on all actions and will get worse unless stabilised

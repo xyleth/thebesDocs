@@ -20,7 +20,7 @@ Trauma is tracked via the [Sanity Track](#sanity-track).
 \[\] `+disassociated`
 \[\] `Insane`
 
-Each of these applies the respective [tag](/content/tags/damageTrauma.html) to your character. For ease of reference these tags are reproduced here:
+Each of these applies the respective [tag](/content/tags/damage-trauma.html) to your character. For ease of reference these tags are reproduced here:
 
 - `+odd` – You’re a bit off, no game mechanical detriment
 - `+eccentric` – Gain the [Eccentric](/content/moves/personal#Eccentric) move
