@@ -11,7 +11,7 @@ An infomorph is a software emulation of your ego’s neural architecture, runnin
 
 As a `+virtual` entity, infomorphs do not have a **_damage track_**, instead, virtual attacks on an Ego’s integrity are resolved using the **_trauma move_**
 
-Infomorphs interact with each other on a software level and, with the right talents or software (**_[Cyberbrain Hacking](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Cyberbrain)_**), can try to hack each other without requiring the victim to have the `+puppet sock` tag. Furthermore, they have a chance to figure out any software enhancements or upgrades that might be running on another `+virtual` person with an **_Assess the Situation_** roll.
+Infomorphs interact with each other on a software level and, with the right talents or software (**_[Cyberbrain Hacking](/content/moves/tech#cyberbrain-hacking)_**), can try to hack each other without requiring the victim to have the `+puppet sock` tag. Furthermore, they have a chance to figure out any software enhancements or upgrades that might be running on another `+virtual` person with an **_Assess the Situation_** roll.
 
 A base informorph has the following characteristics:
 

@@ -76,7 +76,7 @@ You have kinesics training, supported by specialized software packages. **_When 
 - conceal from them your own motives or intentions
 - communicate an idea or concept entirely non-verbally in a manner unlikely to be intercepted
 
-Synthmorphs, some uplifts, and AGIs can be particularly difficult to read. The GM may impose `+glitched` when interacting with such people. Individuals with `+endocrine control` or [Emotion Suppression](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Emotion) are generally immune to this move.
+Synthmorphs, some uplifts, and AGIs can be particularly difficult to read. The GM may impose `+glitched` when interacting with such people. Individuals with `+endocrine control` or [Emotion Suppression](#emotion-suppression) are generally immune to this move.
 
 ## Life of the Party
 

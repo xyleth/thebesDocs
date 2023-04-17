@@ -5,6 +5,8 @@ parent: Tags
 nav_order: 2
 ---
 
+# Damage & Truma Tags
+
 ## Damage tags
 
 - `+scuffed` – Minor damage, no game mechanical detriment
@@ -15,6 +17,6 @@ nav_order: 2
 ## Sanity tags
 
 - `+odd` – You’re a bit off, no game mechanical detriment
-- `+eccentric` – Gain the [Eccentric](/content/moves/personal#Eccentric) move
+- `+eccentric` – Gain the [Eccentric](/content/moves/personal#eccentric) move
 - `+disassociated` – You are `+glitched` on all **_trauma move_** rolls.
 - `Insane` – Not a tag, so much, as a state of being. You are unrecoverably insane. Retire your character.
