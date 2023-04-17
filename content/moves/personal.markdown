@@ -7,8 +7,8 @@ nav_order: 2
 
 **Personal Moves:**
 
-- **_[Body Hopper](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Body)_**
-- **_[Break and Enter](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Break)_**
+- **_[Body Hopper](#body)_**
+- **_[Break and Enter](#break)_**
 - **_[Disguise](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Disguise)_**
 - **_[Eccentric](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Eccentric)_**
 - **_[Expertise](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Expertise)_**
@@ -18,7 +18,7 @@ nav_order: 2
 - **_[Paragon](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Paragon)_**
 - **_[Retribution](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Retribution)_**
 - **_[Team Player](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Team)_**
-- **_[Tough in the Fiber](https://eclipse-phase-apocalypse.obsidianportal.com/wikis/moves#Tough)_**
+- **_[Tough in the Fiber](#tough)_**
 
 **_Body Hopper_**  
 You never need to roll **_integration, alienation, and continuity_** as a result of voluntary resleeving. Resleeving after death, or being restored from backup requires **_integration, alienation, and continuity_** as normal.

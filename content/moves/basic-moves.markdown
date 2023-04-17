@@ -88,8 +88,8 @@ Finally, you must get used to any loss of continuity, or adapt to the idea that 
 
 ## Damage Move
 
-See [Damage Move](/content/rules/damageHealing.html#damage-move)
+See [Damage Move](/content/rules/damage-healing#damage-move)
 
 ## Trauma Move
 
-See [Trauma Move](/content/rules/traumaHealing.html#trauma-move)
+See [Trauma Move](/content/rules/trauma-healing#trauma-move)
